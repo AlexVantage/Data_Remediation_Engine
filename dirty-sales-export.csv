@@ -1,0 +1,12 @@
+Order ID,Customer Name,City State Zip,Order Date,Revenue,Region,Internal System Log
+ORD-1001,  john SMITH  ,"Phoenix, AZ, 85001",15/03/2024,$ 1,250.50 ,West,sys:import_batch_4472
+ORD-1002,jane doe,"Scottsdale,AZ,85251",22/07/2024,$890.00,N/A,sys:import_batch_4472
+ORD-1001, JOHN smith ,"Phoenix, AZ, 85001",15/03/2024,$ 1250.50,West,sys:dup_row_detected
+ORD-1003,ROBERT  o'connor,"Tempe, AZ,85281",01/12/2023," $2,450.75 ",South,sys:import_batch_4473
+ORD-1004,  mary-jane watson  ,",,",N/A, ,East,sys:reconcile_flag
+ORD-1005,PETER PARKER,"Mesa, AZ,85203",31/01/2024,450.00, West ,sys:import_batch_4473
+ORD-1006,  alicia  chen  ,"Glendale, AZ,85301",05/06/2024,N/A,N/A,sys:import_batch_4474
+ORD-1007,tom wilson,"Chandler,AZ,85224",18/09/2024,$ 675.25 ,West,
+ORD-1008,  sUSAN   Lee  ,"Peoria, AZ,85345",29/02/2024,$1,125.00,N/A,sys:import_batch_4474
+ORD-1009,  david NGUYEN  ,"Gilbert, AZ,85234",07/11/2024,$ 0.00 ,South,sys:import_batch_4475
+ORD-1010,EMILY ROSS,"Surprise, AZ,85374",03/04/2024,N/A,West,sys:import_batch_4475
