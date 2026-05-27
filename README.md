@@ -1,4 +1,4 @@
-# Sales Data Quality Pipeline
+# Spreadsheet Repair
 
 Portfolio sample for [AlexVantage](https://alexvantage.com) — a deliberately messy CRM export and a reusable Power Query pipeline organized around four data-quality pillars.
 
