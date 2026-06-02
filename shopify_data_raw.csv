@@ -1,0 +1,1016 @@
+﻿Transaction_ID,Customer_Name,Customer_Email,Phone_Number,Order_Date,SKU,Region,Sales_Channel,Fulfillment_Status,Revenue_USD,Quantity
+TXN-66757,Chrystal Pollock,CPOLLOCK0@OVER-BLOG.COM,675.635.7423,3/20/26,PROD-HAT-BLUE-LRG,North,Online,Pending,,7
+TXN-85595, Drugi Alner,dalner1@shutterfly.com,1567648515,3/17/26,PROD-SHOE-RED-LRG,,Wholesale,Cancelled,318.95,8
+TXN-86073,Tiffy Gymblett,tgymblett2@google.pl,(615) 209-5131,,PROD-SHOE-RED-XL,South,Retail,Shipped,95.81,5
+TXN-02165,katti brigstock,kbrigstock3@drupal.org,2247453899,4/20/26,PROD-HAT-BLUE-SM,,Wholesale,Cancelled,85.34,6
+TXN-69396,Lyon Rilings,LRILINGS4@CAM.AC.UK,(906) 149-8999,4/24/26,PROD-SHOE-BLACK-SM,North,Wholesale,Shipped,,5
+TXN-87836,Federico Murrhardt ,FMURRHARDT5@COCOLOG-NIFTY.COM,850.826.0354,4/20/26,PROD-SHOE-RED-LRG,North,Retail,Shipped,397.32,1
+TXN-10296,Bertie St. Clair,BST6@GUARDIAN.CO.UK,996.655.9603,4/21/26,PROD-SHIRT-WHITE-XL,North,Online,Cancelled,,1
+TXN-29601,Lesly Antram ,LANTRAM7@SCIENCEDAILY.COM,8911737257,3/26/26,PROD-BAG-WHITE-MED,West,Wholesale,Cancelled,602.23,4
+TXN-33833,Ginelle Vanshin,gvanshin8@xinhuanet.com,829.258.0135,4/21/26,PROD-SHOE-BLACK-SM,North,Retail,Cancelled,307.76,6
+TXN-81812,Jolynn De Bischop,JDE9@IMDB.COM,(723) 563-6609,4/28/26,PROD-SHOE-RED-LRG,South,Retail,Cancelled,93.78,
+TXN-93663,Gerry Gibbie ,GGIBBIEA@WEIBO.COM,597.844.0197,3/10/26,PROD-SHOE-WHITE-XL,West,Wholesale,Returned,578.67,4
+TXN-52121,Falito Trahmel,ftrahmelb@baidu.com,751-164-2993,5/11/26,PROD-SHOE-RED-XL,East,Retail,Cancelled,295.36,8
+TXN-79303,myrvyn fiorentino,mfiorentinoc@smh.com.au,241.154.0709,3/31/26,PROD-HAT-BLUE-MED,East,,Returned,153.72,1
+TXN-97554,,MZOELLNERD@CDC.GOV,7593841566,5/4/26,PROD-SHOE-BLACK-SM,North,Wholesale,Pending,36.23,
+TXN-41153, Zedekiah Gummie,zgummiee@skype.com,(547) 677-7378,4/14/26,PROD-SHIRT-WHITE-XL,West,Online,Shipped,716.58,2
+TXN-03444, nikolia zini,nzinif@mediafire.com,164.142.6523,5/6/26,PROD-SHOE-WHITE-LRG,South,Online,Cancelled,36.18,7
+TXN-21269,Caz Avramow,CAVRAMOWG@AMAZON.COM,8102327773,3/6/26,PROD-SHOE-BLUE-XL,West,Retail,Returned,734.28,5
+TXN-30646, Cybill Kornousek,CKORNOUSEKH@OMNITURE.COM,(301) 366-5434,4/26/26,PROD-HAT-BLACK-MED,East,Wholesale,,697.72,5
+TXN-00313,Lauritz Hazeltine,LHAZELTINEI@FREEWEBS.COM,580-541-1527,3/23/26,PROD-SHIRT-BLACK-MED,West,Retail,Shipped,550.02,2
+TXN-14402,Shae Danilchenko,SDANILCHENKOJ@WHO.INT,927.720.8614,3/1/26,PROD-HAT-WHITE-XL,West,Retail,Shipped,828.88,1
+TXN-10422,Thorny Howels,thowelsk@naver.com,258-471-3555,5/7/26,PROD-SHOE-WHITE-XL,North,Wholesale,Cancelled,599.51,3
+TXN-44761, ,tsheersl@tmall.com,812.200.4618,5/3/26,PROD-HAT-BLACK-LRG,North,Retail,Cancelled,688.67,
+TXN-14323,,WMAZZEYM@USTREAM.TV,6944610734,5/19/26,PROD-SHOE-BLACK-LRG,,Retail,Cancelled,301.37,2
+TXN-97290,Doe Kienle,DKIENLEN@AMAZON.CO.JP,375-968-3799,3/9/26,PROD-SHIRT-RED-MED,South,Online,Cancelled,435.31,8
+TXN-93023,Brannon Vango,bvangoo@scientificamerican.com,231.528.0731,4/20/26,PROD-BAG-BLACK-XL,North,Retail,Pending,668.46,3
+TXN-67556,Gualterio Thynn ,,7951763075,5/3/26,PROD-SHOE-BLUE-MED,West,Retail,Returned,601.98,6
+TXN-83196,carmen vevers,cveversq@imdb.com,,4/23/26,PROD-BAG-BLUE-MED,West,Wholesale,Returned,73.62,7
+TXN-10599,Rolf Swyre,rswyrer@instagram.com,626.281.8339,3/4/26,PROD-SHIRT-RED-XL,East,,Shipped,91.67,8
+TXN-46260,Tyne Windress ,twindresss@google.com.br,4243025340,4/24/26,,North,Wholesale,Shipped,516.15,
+TXN-32586,Conrade Lusher,clushert@amazon.co.jp,(163) 299-8841,4/4/26,PROD-BAG-RED-MED,East,Wholesale,Returned,106.09,6
+TXN-35366,Urson Peres,,(885) 406-4765,4/2/26,PROD-HAT-BLACK-SM,North,Retail,Returned,841.53,8
+TXN-20731,Anny Allchorn,aallchornv@ted.com,883-673-6300,3/1/26,PROD-SHIRT-WHITE-MED,North,Wholesale,Pending,,4
+, Lorrie Culbard,lculbardw@hp.com,869.305.4991,5/5/26,PROD-SHOE-RED-SM,East,Retail,Cancelled,109.81,
+TXN-87422,Rozina O'Dulchonta,RODULCHONTAX@COCOLOG-NIFTY.COM,395.623.9855,4/28/26,PROD-BAG-RED-XL,,Retail,Cancelled,441.7,
+TXN-92454,hollyanne szwandt,HSZWANDTY@RAKUTEN.CO.JP,376.476.2298,4/5/26,PROD-SHIRT-WHITE-MED,East,Online,Pending,175.27,2
+TXN-33293,Trent Molian,tmolianz@a8.net,8972027863,3/19/26,PROD-SHIRT-RED-SM,East,Wholesale,Cancelled,811.19,7
+TXN-48008,,RBUSSETTI10@BOSTON.COM,609-399-5242,5/23/26,PROD-SHOE-BLUE-XL,West,Online,Cancelled,807.57,5
+TXN-37786,,dlawfull11@wikimedia.org,933.331.5437,,PROD-HAT-RED-LRG,West,Online,Cancelled,791.23,7
+TXN-94671,Tracee Templar,TTEMPLAR12@GOOGLE.COM,9329574608,4/3/26,PROD-SHOE-BLUE-XL,East,Online,Pending,160.95,3
+TXN-06341,David Wessell,DWESSELL13@DION.NE.JP,4546706837,4/19/26,PROD-SHOE-RED-XL,North,Wholesale,,,8
+TXN-73498, Elmer Arnall,EARNALL14@FOTKI.COM,519.976.1543,4/16/26,PROD-SHIRT-WHITE-MED,South,Wholesale,Shipped,191.82,
+TXN-42590,ruy lettice,RLETTICE15@WP.COM,,4/26/26,PROD-SHOE-RED-SM,North,Online,Shipped,,
+TXN-54933,Allys Imlock,AIMLOCK16@MAC.COM,(729) 927-1150,5/17/26,PROD-HAT-BLACK-XL,West,Online,Shipped,276.42,5
+TXN-07874,Bryn Deluze,bdeluze17@google.ru,184-145-2988,3/15/26,PROD-SHIRT-RED-SM,North,Wholesale,Pending,,6
+TXN-16971,Liuka Camsey,lcamsey18@nydailynews.com,640-818-1018,5/19/26,PROD-SHOE-RED-XL,North,Retail,Pending,814.11,2
+TXN-92937,Kipp Spandley,kspandley19@nydailynews.com,1373032244,5/23/26,PROD-SHIRT-BLUE-LRG,North,Wholesale,Cancelled,487.95,
+TXN-68126,Clemmie Lednor ,clednor1a@usnews.com,9628180648,4/19/26,,North,Online,Shipped,315.8,1
+TXN-74499,Karney Dugald,kdugald1b@alibaba.com,600-781-4187,3/30/26,PROD-SHIRT-BLACK-MED,North,Wholesale,Returned,592.43,8
+TXN-56407,nelli leinster,NLEINSTER1C@GOO.NE.JP,,4/6/26,PROD-SHOE-BLACK-SM,East,Retail,Shipped,656.02,4
+TXN-52609,Glenn Stirrup,GSTIRRUP1D@PAYPAL.COM,8922979097,05/22/2026,PROD-SHOE-BLUE-LRG,South,Retail,Cancelled,68.95,6
+TXN-08971,Shelden Horwell,shorwell1e@yandex.ru,681-462-1226,4/9/26,PROD-SHIRT-WHITE-LRG,West,Wholesale,Shipped,611.69,
+TXN-84266,alice romney,aromney1f@goodreads.com,,5/9/26,PROD-HAT-BLACK-LRG,West,Retail,Shipped,,1
+TXN-84005,holly-anne froom ,hfroom1g@technorati.com,8003276263,5/13/26,PROD-SHIRT-RED-MED,West,,,198.09,
+TXN-88345, Ara Deplacido,,329.281.0531,5/17/26,PROD-SHOE-BLUE-MED,South,Wholesale,Returned,,5
+TXN-47709, smith smittoune,ssmittoune1i@elegantthemes.com,8796196302,4/4/26,PROD-SHIRT-WHITE-SM,South,,Shipped,299.11,2
+TXN-69038,Jessie Tollet,jtollet1j@aboutads.info,4702930644,,PROD-BAG-BLACK-SM,North,Wholesale,Pending,795.86,8
+TXN-29532,,VPYLKYNYTON1K@BUSINESSWIRE.COM,684-968-7406,4/24/26,PROD-BAG-RED-MED,East,Online,Cancelled,512.69,6
+TXN-85071, ,SBAFFIN1L@POSTEROUS.COM,831-931-0975,,PROD-BAG-RED-SM,South,Wholesale,Pending,198.57,6
+TXN-57700,Madella Neward,,(732) 247-6066,5/1/26,PROD-SHOE-WHITE-XL,North,Online,Cancelled,446.96,1
+TXN-40899,catherine bus,CBUS1N@CAM.AC.UK,506-208-6084,3/14/26,PROD-SHOE-BLUE-SM,East,Wholesale,Cancelled,842.79,
+TXN-17103,Elinor Rohlfs,EROHLFS1O@TINYURL.COM,(525) 569-6732,3/3/26,PROD-SHOE-BLUE-XL,East,Wholesale,Shipped,703.24,1
+TXN-81562,currey riceards,CRICEARDS1P@FC2.COM,579-191-2141,3/6/26,PROD-SHOE-BLUE-LRG,East,Online,Cancelled,280.7,1
+TXN-67002,Kerry Gounin,,394-273-1042,4/10/26,PROD-HAT-RED-MED,West,Online,Pending,383.59,8
+TXN-29284,Eveline Stanier,estanier1r@oracle.com,993-942-0337,5/16/26,PROD-HAT-RED-SM,North,Online,Cancelled,625.3,8
+TXN-74415,Costanza Belsey ,cbelsey1s@wordpress.org,(873) 890-3926,4/19/26,PROD-HAT-BLUE-LRG,East,Wholesale,Cancelled,47.21,3
+TXN-89916, Suzie MacDuffie,SMACDUFFIE1T@TUTTOCITTA.IT,482.358.5586,5/13/26,PROD-SHIRT-RED-LRG,West,Online,Cancelled,124.53,8
+TXN-75419,Rebeka Francescoccio ,RFRANCESCOCCIO1U@SQUARESPACE.COM,(356) 289-7362,4/20/26,PROD-BAG-RED-SM,South,Wholesale,Shipped,573.97,5
+TXN-77548, Carmina Philliphs,CPHILLIPHS1V@CHINA.COM.CN,(778) 369-8015,3/18/26,PROD-HAT-WHITE-SM,West,Wholesale,,849.94,8
+TXN-77274,Nickola Hardcastle ,NHARDCASTLE1W@MSU.EDU,724.412.8833,3/9/26,PROD-SHOE-WHITE-LRG,West,Online,Pending,516.14,3
+TXN-15444,Niko Rennocks,NRENNOCKS1X@MTV.COM,215-965-3576,03/23/2026,PROD-SHIRT-BLACK-XL,North,Wholesale,Cancelled,270.67,4
+TXN-01693,Rollie Welsh,RWELSH1Y@TOPLIST.CZ,(273) 102-5154,4/11/26,PROD-SHIRT-RED-SM,East,Retail,Cancelled,35.07,3
+TXN-24429, bessy ginnelly,BGINNELLY1Z@WEBNODE.COM,8013645357,5/7/26,PROD-HAT-WHITE-LRG,North,Retail,Returned,,4
+TXN-33370,Brewster Dhillon,BDHILLON20@WSJ.COM,530.639.9393,,PROD-SHIRT-WHITE-LRG,West,Online,Shipped,353.75,4
+TXN-92716, ,,(794) 930-2888,3/27/26,PROD-SHOE-RED-MED,South,Online,Shipped,,5
+TXN-75725,Raynor Santo,rsanto22@paginegialle.it,8925383479,5/21/26,PROD-SHIRT-BLACK-MED,,Online,Cancelled,769.92,
+TXN-62927,padraig worshall,PWORSHALL23@ALTERVISTA.ORG,406.492.7008,5/21/26,PROD-SHIRT-RED-LRG,South,Online,Cancelled,601.59,
+TXN-15419,Halie Bannell,HBANNELL24@LATIMES.COM,855-160-7436,4/28/26,PROD-HAT-RED-LRG,East,Wholesale,Returned,,5
+TXN-29129,Pernell Caldicott,PCALDICOTT25@SPRINGER.COM,8082451686,4/20/26,PROD-BAG-RED-LRG,East,Retail,Shipped,327.51,1
+TXN-70368,Phillie Gynne,pgynne26@indiatimes.com,510-737-5682,4/4/26,PROD-HAT-RED-SM,North,Online,Cancelled,76.92,1
+TXN-10093,Ellene Worboy,eworboy27@comcast.net,3105511714,5/25/26,PROD-BAG-BLUE-XL,East,Retail,Shipped,520.92,7
+TXN-21402, Ninetta Sapwell,nsapwell28@twitpic.com,4098966350,3/27/26,PROD-HAT-BLACK-LRG,South,Retail,,762.51,7
+TXN-21499,Gregor Iacovino,giacovino29@spotify.com,113.640.1769,5/19/26,,West,Online,Shipped,181.74,1
+TXN-86280, Alessandro Robus,arobus2a@edublogs.org,(346) 873-2166,,PROD-SHIRT-BLACK-SM,,Online,Returned,784.32,6
+TXN-59128,Tailor Shipton,TSHIPTON2B@LOC.GOV,7036934068,5/17/26,PROD-SHOE-RED-SM,North,Wholesale,Pending,529.55,3
+TXN-30064, Lanni Pursehouse,lpursehouse2c@cnn.com,105.277.4356,5/6/26,PROD-BAG-WHITE-SM,South,Wholesale,Shipped,737.79,8
+TXN-53031,Rochell Van Haeften ,rvan2d@prnewswire.com,(311) 885-5804,4/22/26,,West,Retail,Cancelled,208.27,1
+TXN-24655, ailyn forryan,AFORRYAN2E@AUDA.ORG.AU,936-883-1240,3/29/26,PROD-SHOE-BLUE-LRG,North,Online,Shipped,461.22,8
+TXN-65810,Conny Wiley,cwiley2f@prweb.com,4549032768,4/1/26,PROD-SHIRT-WHITE-MED,West,Retail,,,
+TXN-92172,,MICKERINGILL2G@TECHCRUNCH.COM,6501496568,4/11/26,PROD-BAG-BLUE-LRG,West,Online,Shipped,255.22,8
+TXN-09053,Audrey Kermannes,akermannes2h@upenn.edu,4108345417,4/12/26,PROD-SHOE-WHITE-MED,South,Online,Returned,,2
+TXN-62731,Susanetta Bolsover,sbolsover2i@jiathis.com,542-683-4317,5/5/26,PROD-SHIRT-BLUE-LRG,South,Retail,,187.04,6
+TXN-88966,Iris Aucourte,iaucourte2j@ed.gov,570.711.9193,5/13/26,PROD-SHIRT-BLUE-MED,East,Retail,Pending,421.43,2
+TXN-46506,Conchita Molan,CMOLAN2K@HISTATS.COM,5409274510,4/6/26,PROD-SHIRT-WHITE-SM,South,Retail,Cancelled,273.97,5
+TXN-99508,Lisa Croxford,LCROXFORD2L@HP.COM,435-731-1892,4/2/26,,East,,Returned,448.05,
+,Giustino Prattin ,GPRATTIN2M@LYCOS.COM,277-540-7991,4/25/26,PROD-HAT-RED-LRG,West,Wholesale,Pending,,3
+TXN-52005,Leanor Dorran,ldorran2n@seattletimes.com,7815750660,3/13/26,PROD-BAG-RED-MED,West,Retail,Returned,582.64,4
+TXN-83205,Valida Elleyne,velleyne2o@spiegel.de,3583812961,,PROD-SHOE-RED-MED,,Retail,Returned,777.84,5
+TXN-23450,,rbroadley2p@bigcartel.com,732-867-8501,5/9/26,PROD-BAG-BLUE-MED,West,Online,Pending,589.84,6
+TXN-36329,Kissie Karus,kkarus2q@wordpress.com,418-339-8056,3/19/26,PROD-SHOE-RED-XL,South,Online,Pending,,6
+TXN-09460,Mallory McKibben,mmckibben2r@census.gov,218.435.7379,3/19/26,PROD-SHOE-BLUE-MED,North,Online,Cancelled,178.56,1
+TXN-79374,Dasie Kamenar,DKAMENAR2S@WEBEDEN.CO.UK,650.463.1189,4/8/26,,South,Online,Returned,321.54,4
+TXN-12345,Antonietta Janaszkiewicz ,ajanaszkiewicz2t@dailymail.co.uk,(546) 363-1264,2/28/26,PROD-HAT-WHITE-LRG,West,Retail,Shipped,,2
+TXN-20186,Bryon Denham,bdenham2u@elegantthemes.com,731-690-4185,5/21/26,PROD-BAG-RED-MED,South,Wholesale,Shipped,551.1,1
+TXN-92257,Tilda Espinos,tespinos2v@ocn.ne.jp,277-328-9137,3/9/26,PROD-HAT-RED-MED,North,Retail,Pending,222.48,8
+TXN-54992,Brittany Velden,bvelden2w@etsy.com,735-786-1607,4/9/26,PROD-HAT-BLACK-MED,West,Online,Pending,819.33,6
+TXN-96104,Tiffie Janic ,TJANIC2X@YOUTU.BE,642.803.0468,3/19/26,PROD-SHIRT-BLACK-XL,West,Retail,,781.22,8
+TXN-74187,Meghan Fydoe,MFYDOE2Y@SKYROCK.COM,(750) 374-1549,3/3/26,PROD-HAT-WHITE-LRG,West,Online,Pending,39.1,5
+TXN-97312,Elyn Gallegos,EGALLEGOS2Z@TUTTOCITTA.IT,5698387800,5/26/26,PROD-SHOE-BLACK-XL,North,Retail,Shipped,504.07,
+TXN-28344,Lemuel Jaqueme,ljaqueme30@tinyurl.com,121-492-4419,4/21/26,PROD-SHOE-RED-LRG,North,Wholesale,Pending,577.78,6
+TXN-76101,lexis broxholme,lbroxholme31@networksolutions.com,353-368-2453,5/20/26,PROD-HAT-WHITE-MED,West,Wholesale,Returned,,2
+TXN-58671, Tootsie Eastgate,TEASTGATE32@LINKEDIN.COM,(406) 863-7715,4/23/26,PROD-SHOE-BLUE-SM,East,Retail,Shipped,162.16,1
+TXN-04291,Danni Stilwell,DSTILWELL33@SOGOU.COM,1773307052,5/3/26,PROD-BAG-BLACK-MED,East,Retail,Pending,,8
+TXN-62282, valaria dyche,vdyche34@loc.gov,(351) 591-5410,4/19/26,PROD-HAT-RED-SM,South,Wholesale,Shipped,272.97,5
+TXN-87235,madalyn braine ,MBRAINE35@PRINCETON.EDU,(760) 499-3755,4/13/26,PROD-SHIRT-WHITE-LRG,North,Wholesale,Pending,596.75,4
+TXN-49806,Jamie Ducaen,,451.766.5434,4/30/26,PROD-SHOE-BLUE-XL,South,Online,Returned,665.6,7
+TXN-41609,Alix Ogglebie,AOGGLEBIE37@MICROSOFT.COM,(332) 790-6944,3/7/26,PROD-BAG-RED-SM,North,Wholesale,Cancelled,748.6,5
+TXN-19096,Sher Bome,SBOME38@TINY.CC,335.286.1212,4/10/26,PROD-SHIRT-WHITE-LRG,West,Wholesale,Returned,,4
+TXN-27014,Forester Strewther,fstrewther39@newyorker.com,889.144.7955,5/25/26,PROD-SHOE-WHITE-MED,South,Wholesale,Returned,378.18,4
+TXN-67584,Arin Imm,aimm3a@dmoz.org,4093461459,3/19/26,PROD-BAG-BLUE-XL,East,Online,Shipped,835.59,6
+TXN-44089, Nap Yakubovics,NYAKUBOVICS3B@A8.NET,771.958.4932,3/30/26,PROD-SHOE-BLUE-LRG,,Wholesale,Shipped,280.29,
+TXN-34933,rowan fontenot,RFONTENOT3C@FDA.GOV,911.847.8539,4/13/26,PROD-HAT-RED-LRG,East,Online,Returned,276.49,7
+TXN-75111,Erick Sonier,ESONIER3D@OPENSOURCE.ORG,(491) 263-5278,4/9/26,PROD-SHIRT-WHITE-SM,East,Online,Returned,484.36,1
+,Flin Keyte ,fkeyte3e@sogou.com,2442534223,05/16/2026,PROD-SHIRT-WHITE-XL,West,Retail,Returned,438.42,5
+TXN-75439,Evangelia Suggate,esuggate3f@pagesperso-orange.fr,9076485104,4/1/26,PROD-SHOE-BLUE-LRG,West,Online,Pending,117.32,8
+TXN-79997,Kiley Whitlow,kwhitlow3g@baidu.com,8943768293,5/21/26,PROD-BAG-WHITE-LRG,,Wholesale,Pending,361.73,
+TXN-72123,Mireielle Tyson ,MTYSON3H@TMALL.COM,526.806.0505,4/21/26,PROD-HAT-BLUE-MED,East,Retail,Shipped,113.88,6
+TXN-93996,Lacie Lambal,LLAMBAL3I@WIX.COM,(917) 190-0016,5/1/26,PROD-HAT-BLACK-XL,East,Online,Shipped,171.17,5
+TXN-39329, Gaven Kembry,GKEMBRY3J@FLAVORS.ME,438.149.1815,5/24/26,,West,Online,Returned,191.11,5
+TXN-31051,kyrstin kassel,,9123847511,3/19/26,PROD-SHOE-BLUE-MED,East,Retail,Pending,827.48,4
+TXN-18727, ,gkleinfeld3l@domainmarket.com,(992) 633-4758,4/27/26,PROD-BAG-WHITE-SM,,Retail,Cancelled,,
+TXN-21302,Adrianne Fargie,afargie3m@chronoengine.com,2461423707,4/29/26,PROD-BAG-RED-SM,South,Retail,Returned,386.74,7
+TXN-31095,Taffy Adkin,tadkin3n@yahoo.com,,5/9/26,PROD-HAT-BLACK-LRG,East,Online,Returned,708.64,8
+,Ronda Bowart,rbowart3o@jalbum.net,743.385.3552,4/3/26,PROD-BAG-RED-MED,West,Retail,Pending,739.58,6
+TXN-50303,Celina Mussettini,CMUSSETTINI3P@CISCO.COM,2503180740,4/7/26,PROD-SHOE-RED-SM,South,Retail,Returned,353.81,4
+TXN-42798,Read Weippert ,RWEIPPERT3Q@TIMESONLINE.CO.UK,5152450996,4/3/26,PROD-SHIRT-BLACK-MED,South,Wholesale,Shipped,481.43,2
+TXN-34682, Jonah Kegan,JKEGAN3R@SOURCEFORGE.NET,795.815.2525,5/27/26,PROD-HAT-RED-MED,West,Wholesale,Shipped,358.84,4
+TXN-63457,Devondra Arnoult,DARNOULT3S@DAILYMAIL.CO.UK,873.659.1998,3/1/26,PROD-BAG-WHITE-SM,South,Wholesale,Shipped,785.47,8
+TXN-81946,Rolph Hubbocks,RHUBBOCKS3T@BRAVESITES.COM,(110) 496-9713,04/08/2026,,East,Wholesale,Cancelled,,6
+TXN-59104,Thomasa Songust,TSONGUST3U@ADOBE.COM,(153) 934-0004,3/28/26,PROD-HAT-WHITE-SM,East,Online,Returned,174.02,4
+TXN-44451, Sheeree Eatttok,seatttok3v@quantcast.com,,3/30/26,PROD-SHIRT-BLUE-LRG,South,Retail,Pending,253.5,3
+TXN-13636,Jessie Yitzhok,jyitzhok3w@mediafire.com,360-697-2181,4/17/26,,East,Wholesale,Cancelled,245.13,8
+TXN-80839,Alena Iacomo ,AIACOMO3X@GITHUB.COM,398-744-0009,5/3/26,PROD-HAT-BLACK-LRG,North,Wholesale,Returned,549.5,
+TXN-58405,Davon Weekley,DWEEKLEY3Y@PUREVOLUME.COM,921.472.8866,04/24/2026,PROD-HAT-RED-SM,North,Retail,Returned,628.54,7
+, Nappie Dyhouse,ndyhouse3z@wiley.com,8115449345,2/28/26,PROD-HAT-WHITE-XL,South,Retail,Shipped,722.29,7
+TXN-59756,Virgie Papez,vpapez40@nps.gov,225.201.9088,4/19/26,PROD-SHIRT-BLACK-LRG,East,Wholesale,,602.32,3
+TXN-51084,Kathie Biskup,KBISKUP41@DELICIOUS.COM,468-841-9496,5/26/26,PROD-SHIRT-WHITE-XL,East,Retail,Returned,380.92,7
+TXN-09252,Benedict Vanyukov,bvanyukov42@walmart.com,4418680957,3/12/26,PROD-SHIRT-RED-MED,South,Retail,Returned,246.58,6
+TXN-44896,Yanaton Chaffyn,ychaffyn43@sbwire.com,830-951-8460,,PROD-SHOE-BLUE-SM,West,Online,Shipped,158.31,5
+TXN-46769,mitchael quennell,mquennell44@oakley.com,(278) 808-8627,,PROD-SHIRT-RED-LRG,South,Online,Pending,,2
+TXN-34119,Aliza Dadswell,ADADSWELL45@PAGESPERSO-ORANGE.FR,,5/15/26,PROD-SHIRT-BLUE-SM,,Online,Returned,288.1,2
+,Delmor Borgnol,DBORGNOL46@THEGLOBEANDMAIL.COM,(463) 273-5737,3/3/26,PROD-SHOE-BLUE-XL,East,Online,Returned,592.27,2
+TXN-24532, Anjanette Rubinovici,arubinovici47@soup.io,948.295.3881,3/8/26,PROD-BAG-WHITE-MED,West,Online,Returned,641.25,8
+TXN-18614,Ashleigh Warnes ,awarnes48@auda.org.au,640-365-9982,5/9/26,PROD-BAG-BLACK-SM,West,Online,Pending,,4
+TXN-58443,adham cicccitti,ACICCCITTI49@BLOOMBERG.COM,827-845-9250,4/6/26,PROD-HAT-BLACK-XL,East,Retail,Returned,489.66,4
+TXN-85237,Jessa McCrone ,jmccrone4a@foxnews.com,(400) 154-5600,03/08/2026,PROD-SHIRT-BLUE-MED,East,Retail,Shipped,44.11,8
+TXN-44877,Everett Neasham,ENEASHAM4B@OVH.NET,(966) 915-1082,,PROD-SHIRT-BLACK-XL,North,Retail,Returned,166.17,8
+TXN-14594,Clara Cosson ,ccosson4c@sphinn.com,413.581.3747,,PROD-HAT-BLACK-SM,South,Online,Pending,847.2,
+TXN-58295,Emmy Iacovielli,eiacovielli4d@jiathis.com,271.175.2986,5/10/26,PROD-SHIRT-BLUE-MED,,Wholesale,Cancelled,788.91,5
+TXN-97958,Caril Ascroft,CASCROFT4E@USDA.GOV,1145891593,3/20/26,PROD-SHOE-RED-LRG,North,,Pending,405.27,8
+TXN-89582,Ruthi Zoephel,,4348477041,4/4/26,PROD-BAG-BLUE-XL,West,Wholesale,Pending,361.39,2
+TXN-19210,Ingar Hodgets,IHODGETS4G@MERRIAM-WEBSTER.COM,(702) 282-5290,5/16/26,PROD-HAT-RED-LRG,East,Online,Returned,581.24,5
+TXN-46009,Dione Hastwall,DHASTWALL4H@GOOGLE.CN,245.858.8854,5/10/26,,South,Retail,Cancelled,,5
+TXN-10119,Andie Nelle,anelle4i@yahoo.com,835-916-5924,3/2/26,PROD-HAT-BLACK-MED,South,Online,Returned,546.61,1
+TXN-31201,Llywellyn Blann,LBLANN4J@EEPURL.COM,129-915-9367,5/10/26,PROD-BAG-BLACK-SM,West,,Pending,169.58,3
+TXN-84043,Clary Drackford,CDRACKFORD4K@ED.GOV,195-192-5691,3/22/26,PROD-SHOE-BLACK-MED,South,Wholesale,Pending,102.6,2
+TXN-69731,Lyndsie Mangin ,lmangin4l@columbia.edu,330-169-5117,5/4/26,PROD-SHOE-RED-MED,East,Retail,Returned,755.49,4
+TXN-34957,Ermanno Whiston ,ewhiston4m@people.com.cn,3071654068,4/17/26,PROD-BAG-WHITE-SM,North,,Shipped,496.78,
+TXN-58327, Phyllis Marshfield,pmarshfield4n@oakley.com,871-828-3363,4/23/26,PROD-SHOE-WHITE-LRG,West,Wholesale,Returned,648.81,
+TXN-09231,Annabel Keward,akeward4o@amazon.co.uk,(979) 818-1631,3/27/26,PROD-HAT-BLUE-SM,North,Retail,Pending,,6
+TXN-28667,Kissie Goade,kgoade4p@chronoengine.com,,,PROD-SHIRT-BLUE-XL,North,Wholesale,Cancelled,110.17,4
+TXN-94920,Hirsch Bertl,HBERTL4Q@BUZZFEED.COM,629.381.2007,3/16/26,PROD-SHOE-BLACK-XL,East,Retail,Shipped,,7
+TXN-75541,,ryearnsley4r@google.it,972-599-7893,5/20/26,PROD-BAG-WHITE-SM,North,Wholesale,Cancelled,692.75,2
+TXN-17101,Hedda Addicott,haddicott4s@indiegogo.com,888.142.5773,5/19/26,PROD-SHIRT-BLACK-XL,North,Wholesale,Cancelled,329.7,2
+TXN-28365,Prent Purselow,PPURSELOW4T@YALE.EDU,235-291-9387,4/18/26,,North,,,93.43,2
+,Jeannie Gillogley,jgillogley4u@typepad.com,2733482076,4/3/26,PROD-SHIRT-RED-SM,West,,Returned,248.7,5
+TXN-25595,Wit Conelly,,148.630.4271,5/7/26,PROD-SHIRT-RED-MED,East,Online,Pending,169.02,1
+TXN-36242,Amberly Haken ,AHAKEN4W@HUFFINGTONPOST.COM,532-327-2173,5/3/26,,,Online,Shipped,245.71,4
+TXN-58098, Royce Eddow,REDDOW4X@HP.COM,(205) 321-5860,,PROD-SHIRT-BLACK-MED,,Retail,Shipped,156.73,4
+TXN-52315,Lenard Everwin,LEVERWIN4Y@TUMBLR.COM,982-444-6272,3/2/26,PROD-SHIRT-BLACK-SM,East,Online,Pending,534.03,
+TXN-22613,Konstantin Maber,KMABER4Z@DESDEV.CN,,5/20/26,PROD-SHIRT-BLUE-LRG,,Online,Cancelled,467.64,3
+TXN-77158,Kaila Hoyte ,KHOYTE50@TIMESONLINE.CO.UK,9802675719,3/12/26,PROD-SHOE-BLACK-XL,South,Retail,Pending,283.62,4
+TXN-22626, Heather Mayes,,2523729543,5/13/26,PROD-SHIRT-RED-SM,East,Online,Cancelled,,
+TXN-17324,Wanids Sherville,wsherville52@amazon.de,567.244.3157,3/16/26,PROD-SHOE-WHITE-LRG,North,Wholesale,Cancelled,634.91,2
+TXN-31377,Joshia McGuane,JMCGUANE53@STANFORD.EDU,563-399-9364,5/24/26,PROD-SHOE-RED-SM,South,Wholesale,Pending,631.96,8
+TXN-78467,Melinda Blyth,mblyth54@admin.ch,8192631928,4/21/26,PROD-BAG-BLUE-MED,,Retail,Shipped,345.29,2
+TXN-04765,Sharity Ghirigori,SGHIRIGORI55@EUROPA.EU,889-704-3152,5/6/26,PROD-SHIRT-WHITE-MED,North,Online,Pending,751.75,3
+TXN-61382, Constanta Lytell,clytell56@ted.com,591.949.6587,5/10/26,PROD-BAG-WHITE-XL,South,Retail,Returned,643.97,3
+TXN-85231, Ragnar Bolley,rbolley57@scribd.com,761-755-8919,5/20/26,PROD-BAG-RED-LRG,West,Retail,Returned,98.9,6
+TXN-43421,Bobby Matusov,BMATUSOV58@DIIGO.COM,(626) 174-5056,05/19/2026,PROD-SHIRT-RED-MED,,Online,Cancelled,,
+TXN-12949,Luelle Thredder,lthredder59@cnet.com,(505) 996-6280,3/19/26,PROD-HAT-BLUE-XL,South,,Pending,491.92,7
+TXN-20857,Shelia Pheasey,SPHEASEY5A@WALMART.COM,115-799-1495,4/2/26,PROD-HAT-WHITE-LRG,North,Online,Returned,,5
+TXN-44237,Cordie Craik,CCRAIK5B@GNU.ORG,,3/7/26,PROD-SHOE-WHITE-LRG,West,Online,Cancelled,711.85,2
+TXN-72682,Dorolisa Tydd,dtydd5c@github.com,977-523-3569,2/28/26,PROD-SHOE-RED-LRG,West,Retail,Cancelled,,2
+TXN-14589,,agunthorpe5d@msn.com,(330) 507-1254,4/7/26,PROD-SHIRT-BLUE-XL,North,,Cancelled,595.38,7
+TXN-39780,Reinaldo Outlaw ,ROUTLAW5E@DAILYMOTION.COM,6992978875,4/25/26,,East,Wholesale,Returned,274.39,8
+TXN-95898, Aymer Hollingdale,AHOLLINGDALE5F@ICIO.US,680-762-2488,5/24/26,PROD-HAT-BLUE-XL,North,,Cancelled,348.52,4
+TXN-44346,Bartlett Craker,BCRAKER5G@THEMEFOREST.NET,8615233552,,PROD-HAT-BLACK-LRG,West,Wholesale,Shipped,151.09,2
+TXN-50740, ,bskidmore5h@foxnews.com,(481) 570-0256,5/16/26,PROD-BAG-BLUE-MED,North,Online,Shipped,354.43,4
+,shawn grinsted,sgrinsted5i@zdnet.com,,4/25/26,PROD-SHOE-WHITE-MED,East,Retail,Shipped,740.08,2
+TXN-39224,Neall Sewill,nsewill5j@java.com,828.862.9005,5/23/26,PROD-SHIRT-BLUE-MED,,Online,Shipped,757,3
+TXN-44500,Rori Veld,RVELD5K@SIMPLEMACHINES.ORG,,5/7/26,PROD-BAG-WHITE-XL,North,Online,Pending,658.63,5
+,Kenn Kuschek,KKUSCHEK5L@AMAZON.CO.JP,980-889-5727,3/1/26,,North,Online,Returned,,8
+TXN-65191, marigold sagerson,MSAGERSON5M@DROPBOX.COM,(250) 306-9919,5/2/26,PROD-SHIRT-WHITE-XL,,Wholesale,Pending,595.79,4
+TXN-86962, ,emenhenitt5n@intel.com,,5/25/26,PROD-BAG-BLUE-XL,South,Retail,Pending,449.8,6
+TXN-50356,Kelila Dike ,,572.283.9366,4/24/26,PROD-SHOE-RED-SM,South,Retail,Shipped,361.15,4
+TXN-63110,Dido MacVicar,DMACVICAR5P@BLOGTALKRADIO.COM,6396705357,3/31/26,PROD-HAT-RED-MED,North,Online,Pending,616.49,6
+TXN-15403,krystle shemmin,KSHEMMIN5Q@SKYROCK.COM,4999823033,5/22/26,PROD-SHIRT-BLUE-LRG,,Wholesale,,644.15,6
+TXN-40278,humberto lamcken ,hlamcken5r@geocities.com,(257) 600-5121,4/25/26,PROD-HAT-BLACK-MED,West,Retail,Shipped,619.14,2
+TXN-08102,Eliza Hayer,ehayer5s@jiathis.com,148.110.2016,3/25/26,PROD-BAG-BLUE-XL,West,Retail,Returned,478.23,6
+TXN-06605,Melody Lacroix,mlacroix5t@goo.gl,5686891980,4/10/26,PROD-BAG-BLACK-XL,West,Wholesale,Cancelled,455.19,3
+TXN-33704,Cyndi Wennam,CWENNAM5U@HOWSTUFFWORKS.COM,728-294-2833,3/21/26,PROD-SHOE-BLACK-XL,West,Wholesale,Returned,653.2,6
+TXN-01282,Garret Keemer,GKEEMER5V@REDCROSS.ORG,4655033574,5/16/26,PROD-SHOE-RED-SM,,Wholesale,Returned,667.87,
+TXN-81966,Allys Dallyn ,ADALLYN5W@COMCAST.NET,968-921-4061,4/21/26,PROD-HAT-BLUE-LRG,East,Retail,Shipped,167.17,
+TXN-18898,Milissent Billborough,mbillborough5x@google.fr,(172) 186-2412,5/6/26,PROD-BAG-BLACK-LRG,North,Retail,Returned,575.04,7
+,Shalne Stairmond,SSTAIRMOND5Y@REFERENCE.COM,(862) 765-5917,4/19/26,PROD-SHIRT-WHITE-XL,North,Wholesale,Pending,423.3,8
+TXN-74309,Crissy Fermoy,CFERMOY5Z@GOOGLE.DE,,5/7/26,,North,Retail,Pending,188.48,1
+TXN-04693, Jobye Denes,JDENES60@GOV.UK,(870) 933-3676,4/2/26,PROD-HAT-WHITE-LRG,East,,Returned,648.97,7
+TXN-12147,Dennie Vasey ,DVASEY61@MASHABLE.COM,4782226613,4/12/26,PROD-HAT-RED-SM,East,Wholesale,Pending,769.22,5
+TXN-06255,Haydon Kealey,HKEALEY62@MYSQL.COM,(445) 662-9841,5/14/26,PROD-SHOE-WHITE-XL,North,Online,Pending,123.3,6
+TXN-09906,Nathan Newbigging,NNEWBIGGING63@CAFEPRESS.COM,145-215-8208,3/20/26,PROD-BAG-BLACK-SM,East,Online,Pending,757,3
+TXN-49352,Joachim Chopin,jchopin64@dropbox.com,(821) 246-9625,5/13/26,PROD-BAG-BLUE-SM,West,Online,Cancelled,240.03,4
+TXN-32594,Ines Rosiello ,irosiello65@cafepress.com,794.428.2893,5/19/26,PROD-HAT-BLACK-MED,South,Retail,Shipped,537.16,5
+TXN-75361,quintus ovise,qovise66@over-blog.com,5258906235,5/21/26,PROD-BAG-WHITE-MED,East,Online,Cancelled,349.47,5
+TXN-86255,Ashlie Waleran,awaleran67@dagondesign.com,(678) 133-6658,3/16/26,PROD-HAT-WHITE-MED,,Wholesale,Shipped,491.63,
+TXN-75821, angel hortop,ahortop68@unicef.org,,3/20/26,PROD-BAG-BLUE-XL,West,Retail,Pending,612.57,
+TXN-35450,Sheeree Bailiss ,sbailiss69@biglobe.ne.jp,(698) 488-4739,3/27/26,PROD-SHOE-BLACK-LRG,West,Retail,Returned,73.21,4
+TXN-50540,,rcambden6a@rambler.ru,(271) 355-3933,5/6/26,PROD-HAT-WHITE-LRG,North,Online,Returned,234.5,
+TXN-47491,Terrance Cronshaw ,TCRONSHAW6B@ED.GOV,499.299.6619,3/31/26,PROD-SHOE-WHITE-LRG,,,Shipped,470.7,8
+TXN-08518,Shoshanna Oxshott,SOXSHOTT6C@IMAGESHACK.US,682.309.1473,4/29/26,PROD-HAT-WHITE-SM,West,Wholesale,Cancelled,243.06,4
+,Melany Fudger,mfudger6d@examiner.com,(480) 596-7028,4/14/26,PROD-HAT-WHITE-LRG,South,Online,Pending,381.65,6
+TXN-28720,Cherise Donaher,cdonaher6e@arizona.edu,(949) 770-2762,3/6/26,PROD-SHOE-RED-XL,South,Retail,Cancelled,91,6
+TXN-47993,Melissa Gyford,MGYFORD6F@WIRED.COM,7472900839,4/10/26,PROD-BAG-BLUE-LRG,South,Retail,,,7
+TXN-05856,Frans Diess,fdiess6g@huffingtonpost.com,(727) 856-0410,4/30/26,PROD-BAG-BLUE-SM,East,Retail,Shipped,693.45,7
+TXN-67307,Nicolas Crookall,NCROOKALL6H@BIGLOBE.NE.JP,1525942150,3/11/26,PROD-BAG-BLACK-XL,North,Retail,Returned,602.67,1
+TXN-58834,Georgena Calveley,gcalveley6i@china.com.cn,2356586780,5/20/26,PROD-SHIRT-BLACK-MED,West,Retail,Pending,720.04,7
+TXN-94768,Ingaberg Yurocjkin,IYUROCJKIN6J@CDBABY.COM,(305) 181-1910,3/2/26,PROD-HAT-BLACK-LRG,North,Online,Returned,390.28,
+TXN-80501,Preston Dishman ,PDISHMAN6K@PARALLELS.COM,155-121-3818,3/11/26,,East,Online,Shipped,636.51,4
+TXN-61466,Adriano Hackworth,ahackworth6l@parallels.com,(738) 157-5045,,PROD-SHIRT-BLACK-LRG,South,Online,Pending,240.37,8
+TXN-69763,cristi slimmon,cslimmon6m@edublogs.org,2327732471,3/19/26,PROD-HAT-WHITE-XL,,Wholesale,Cancelled,427.73,5
+TXN-59620,Emmet Ingliss ,eingliss6n@shop-pro.jp,775-314-7442,4/18/26,PROD-SHOE-WHITE-LRG,South,Retail,Pending,,
+TXN-39577,Barnabe Runacres,BRUNACRES6O@CHINA.COM.CN,585.117.9633,03/26/2026,PROD-SHIRT-WHITE-XL,,Online,Cancelled,551.62,3
+TXN-06580,Charmian Beevens,cbeevens6p@shareasale.com,,3/1/26,PROD-SHIRT-WHITE-LRG,South,Retail,Returned,502.52,1
+TXN-94240,,BAUCHTERLONIE6Q@CISCO.COM,(486) 799-9453,5/27/26,PROD-HAT-WHITE-SM,South,,Pending,,6
+TXN-43883,brit grigson,BGRIGSON6R@SKYROCK.COM,314.129.1228,,PROD-SHOE-BLUE-MED,East,,Returned,571.97,4
+TXN-97904,Thedrick Hirtz,THIRTZ6S@XINHUANET.COM,6418265707,4/29/26,PROD-BAG-RED-MED,North,Wholesale,Pending,,5
+TXN-10411, Bobbie Barbera,bbarbera6t@apple.com,,03/07/2026,PROD-SHOE-RED-LRG,North,Online,Shipped,107.78,1
+TXN-12744,,CLATHAM6U@163.COM,378.933.1240,,PROD-BAG-BLUE-XL,West,Wholesale,Returned,323.09,3
+TXN-67651,Lissa Cescoti,LCESCOTI6V@BING.COM,(906) 194-3962,3/6/26,PROD-SHIRT-WHITE-SM,West,Online,Returned,548.64,1
+TXN-31318,Wally Duffell,wduffell6w@51.la,5529869506,5/11/26,PROD-SHIRT-BLUE-LRG,South,Online,Returned,186.97,7
+TXN-80428,Mohammed Durbyn,MDURBYN6X@WP.COM,799-520-2587,4/29/26,PROD-BAG-BLUE-SM,North,Retail,Pending,781.4,7
+TXN-45423, Ingunna Duthy,IDUTHY6Y@APPLE.COM,604-545-0418,3/7/26,PROD-BAG-BLACK-LRG,East,Wholesale,Cancelled,591.77,8
+TXN-38124,joli loudwell ,jloudwell6z@wikimedia.org,(103) 152-8022,,PROD-SHIRT-WHITE-XL,South,Retail,Pending,160.83,5
+TXN-84688,Juieta Tander ,JTANDER70@TUTTOCITTA.IT,718.226.3365,5/11/26,,East,Retail,,563.92,3
+TXN-08555,Joann Bartke,jbartke71@unesco.org,(315) 158-9833,4/3/26,,East,,Pending,100.83,4
+TXN-45429,darn radolf,DRADOLF72@YOLASITE.COM,8564205624,,,East,Retail,Returned,415.55,8
+TXN-87900,lin beresfore,LBERESFORE73@JUGEM.JP,843.432.3079,,PROD-SHIRT-BLUE-LRG,South,Online,Pending,228.87,6
+TXN-47708,Dionisio Sewart,DSEWART74@UCOZ.COM,719-929-6004,2/28/26,PROD-SHIRT-BLUE-LRG,North,Retail,,698.1,5
+TXN-64755,Hebert Spalton,HSPALTON75@DROPBOX.COM,434-256-6168,5/26/26,,West,Online,Cancelled,,7
+TXN-84811,Corty Eatock,,,,PROD-SHIRT-BLUE-LRG,East,Retail,,577.24,7
+TXN-69722,Bekki Beernt,BBEERNT77@NPR.ORG,850.699.0812,4/20/26,PROD-BAG-BLACK-SM,South,Retail,Cancelled,,7
+TXN-53298,Mayer Hassett,mhassett78@facebook.com,650-476-1734,3/8/26,PROD-BAG-WHITE-XL,West,,Shipped,617.83,5
+TXN-90264,kristoforo assante ,KASSANTE79@ANSWERS.COM,6331686117,5/14/26,PROD-SHIRT-WHITE-XL,South,Online,Shipped,278.67,2
+TXN-37384,Hillary Gauthorpp ,hgauthorpp7a@illinois.edu,395-738-7907,3/8/26,PROD-HAT-BLUE-SM,West,Retail,Returned,637.99,1
+TXN-54522,Isaak Headington,IHEADINGTON7B@GOOGLE.COM,3152723671,3/25/26,PROD-SHOE-WHITE-XL,South,Wholesale,Pending,,7
+TXN-57037,Cynthie Froude,CFROUDE7C@GOOGLE.RU,253-641-4563,3/3/26,PROD-BAG-BLACK-XL,South,Wholesale,Returned,179.7,1
+TXN-48402, Nerte Raulin,NRAULIN7D@YOUKU.COM,566-699-2015,3/21/26,PROD-SHIRT-WHITE-XL,,Retail,Pending,239.91,4
+TXN-99945,Nickolaus Dadds,NDADDS7E@BLOGTALKRADIO.COM,717-843-4048,5/23/26,PROD-HAT-BLUE-MED,,Wholesale,Shipped,300.79,3
+TXN-56795,Jerrilee Chinery,jchinery7f@issuu.com,461-851-3453,5/27/26,PROD-SHIRT-BLUE-LRG,South,,Returned,667.95,6
+TXN-73803,Gunther Merrall,GMERRALL7G@NBCNEWS.COM,725.234.0897,3/12/26,PROD-HAT-RED-LRG,,Wholesale,Returned,800.58,
+TXN-50957, Borg Bennington,bbennington7h@tiny.cc,796.490.1078,3/17/26,PROD-SHOE-BLUE-MED,South,Wholesale,Cancelled,722.42,
+,aylmer haseman,AHASEMAN7I@PINTEREST.COM,(665) 431-9776,4/4/26,PROD-SHOE-RED-XL,,Wholesale,Cancelled,223.77,
+,evangelina cawthera,ECAWTHERA7J@NSW.GOV.AU,782.723.6926,4/25/26,PROD-BAG-WHITE-MED,North,Online,Pending,131.32,5
+TXN-35446,Bailey Elland ,BELLAND7K@HEXUN.COM,245-556-9491,3/16/26,PROD-BAG-WHITE-MED,North,Retail,Cancelled,387.37,8
+TXN-58374,hewett hugk,hhugk7l@google.nl,228.962.1738,,PROD-SHOE-BLUE-MED,East,,Pending,63,7
+TXN-94368, Waverly Mixon,WMIXON7M@STATCOUNTER.COM,1809077721,4/7/26,PROD-SHIRT-BLACK-MED,North,Retail,Cancelled,134.45,
+TXN-21871,Tootsie Barley,tbarley7n@w3.org,(977) 469-6955,5/3/26,PROD-SHIRT-BLACK-XL,West,,Returned,825.16,6
+TXN-32631,Fairlie Lound,,(846) 909-9490,04/23/2026,PROD-SHIRT-BLUE-SM,East,Online,Cancelled,144.03,2
+TXN-87845,Joeann Braam,JBRAAM7P@EEPURL.COM,4906086989,,PROD-BAG-RED-MED,South,Wholesale,Shipped,,8
+TXN-11668, Lyndsay Patching,lpatching7q@va.gov,931-668-9860,4/17/26,PROD-SHIRT-BLACK-XL,West,Retail,Pending,158.97,6
+TXN-12644,Glenda D'Costa,gdcosta7r@gravatar.com,(357) 833-1426,3/3/26,PROD-SHOE-BLACK-SM,East,Retail,Pending,,1
+TXN-79728,Rabi Scudders,RSCUDDERS7S@IHG.COM,740.514.8186,,PROD-SHIRT-BLACK-XL,North,Online,Returned,435.2,
+TXN-49503,Birch Ozelton,BOZELTON7T@WP.COM,(468) 780-2030,3/27/26,PROD-SHOE-BLACK-XL,South,Wholesale,Shipped,389.41,
+TXN-61263,Ruby Quemby,rquemby7u@soup.io,884.906.8594,4/26/26,PROD-SHIRT-WHITE-LRG,North,Wholesale,Shipped,467.13,7
+TXN-31404,Michal Redwin,mredwin7v@goo.gl,779.154.2931,,,,Online,Pending,764.39,8
+TXN-33030,Mildred Narey ,MNAREY7W@FEMA.GOV,4994841762,3/28/26,PROD-BAG-BLUE-XL,North,Retail,,289.15,
+TXN-61772, Dione Giovannoni,dgiovannoni7x@infoseek.co.jp,(687) 500-5286,4/8/26,PROD-BAG-BLUE-SM,,Online,Pending,732.09,6
+TXN-57526,Maitilde Chettle,MCHETTLE7Y@CREATIVECOMMONS.ORG,211-591-4270,3/24/26,PROD-SHOE-BLACK-XL,East,Online,Pending,246.28,7
+TXN-54541,Tobiah Whiteway ,twhiteway7z@whitehouse.gov,(830) 586-6350,3/8/26,PROD-SHIRT-WHITE-XL,North,Retail,Returned,690.48,5
+TXN-85692,Pancho Croxon ,PCROXON80@STANFORD.EDU,7517969099,4/11/26,PROD-BAG-RED-LRG,North,Retail,Returned,,4
+TXN-77920, ,MMAHADDY81@JAVA.COM,3873118844,5/27/26,PROD-HAT-BLACK-MED,,Online,Returned,,6
+TXN-20926,Joni Hedges,jhedges82@blogtalkradio.com,649-175-2456,4/23/26,PROD-BAG-WHITE-SM,West,Online,Cancelled,777.43,4
+TXN-00368,Marice Betts,mbetts83@economist.com,303-590-3113,5/21/26,PROD-SHOE-WHITE-MED,North,Wholesale,Cancelled,670.97,1
+TXN-33749,Allin Newbury,anewbury84@scribd.com,389.120.1213,3/12/26,PROD-SHIRT-BLACK-LRG,,Wholesale,Shipped,635.02,
+TXN-59017,Emmanuel Verdon,everdon85@histats.com,410-681-0298,5/15/26,PROD-HAT-RED-LRG,West,Retail,Cancelled,746.73,7
+,Dalis McGorley ,,112-880-5752,05/27/2026,PROD-SHOE-BLACK-LRG,South,Retail,Cancelled,,7
+TXN-87925,Minne MacNeachtain,MMACNEACHTAIN87@OX.AC.UK,352.232.6695,5/9/26,PROD-BAG-BLUE-XL,North,Online,Cancelled,547.05,
+TXN-30718,Donica Sach ,DSACH88@PHOTOBUCKET.COM,,4/22/26,PROD-SHOE-BLUE-XL,,Wholesale,Shipped,386.38,3
+TXN-53596,maisie loncaster,mloncaster89@com.com,4419157265,5/13/26,PROD-SHIRT-BLACK-LRG,West,Wholesale,Pending,337.36,1
+TXN-91130, Darwin MacVagh,dmacvagh8a@nasa.gov,572-226-7128,05/20/2026,PROD-SHOE-WHITE-MED,North,Retail,Returned,217.67,5
+TXN-76336,Townsend Brusby,TBRUSBY8B@EZINEARTICLES.COM,(847) 642-4509,4/14/26,PROD-SHOE-WHITE-XL,South,Wholesale,Pending,363.8,
+TXN-47478,Deeann Pourveer,dpourveer8c@moonfruit.com,865-372-2154,5/7/26,PROD-SHOE-RED-MED,South,Wholesale,Shipped,,
+TXN-67675,Daron Pabel,dpabel8d@rediff.com,750.976.2118,4/30/26,PROD-SHIRT-WHITE-MED,West,Wholesale,,,
+TXN-21012,Pascal Haskett,phaskett8e@w3.org,(315) 908-0133,5/18/26,,South,Retail,Cancelled,113.35,3
+TXN-74396,Kara Priestman,KPRIESTMAN8F@EEPURL.COM,,5/27/26,PROD-HAT-BLACK-SM,West,Wholesale,Shipped,517.15,
+TXN-73852,esmaria mayberry,emayberry8g@berkeley.edu,2068930737,5/10/26,PROD-HAT-WHITE-XL,West,Retail,Shipped,274.64,2
+TXN-98890,Milt Carnegy,mcarnegy8h@salon.com,2293407095,4/4/26,PROD-SHOE-BLUE-SM,East,Online,Shipped,442.08,
+TXN-73861,melodie weighell,MWEIGHELL8I@GOOGLE.NL,(127) 823-1194,5/17/26,PROD-SHIRT-WHITE-MED,West,Retail,Returned,825.65,3
+TXN-93062,Guenna Yeldham,GYELDHAM8J@YOUKU.COM,439.746.1903,5/12/26,PROD-HAT-BLACK-SM,West,,Returned,,2
+TXN-52386,Bartel Ferrarello,bferrarello8k@upenn.edu,213-614-7422,5/6/26,PROD-BAG-BLACK-XL,East,Retail,Pending,240.49,1
+TXN-54066,Daniela Sleigh,DSLEIGH8L@SPOTIFY.COM,(967) 298-9146,4/15/26,PROD-SHIRT-RED-XL,North,Wholesale,Shipped,639.4,8
+TXN-77530,Halley Birchill,hbirchill8m@cpanel.net,376.269.6547,4/23/26,PROD-SHOE-RED-SM,,Online,Cancelled,,
+,Randie Giorgeschi ,RGIORGESCHI8N@OVH.NET,1537702717,04/20/2026,PROD-SHOE-BLUE-LRG,West,Online,Cancelled,610.78,1
+TXN-45424, Clary Walkling,cwalkling8o@independent.co.uk,718.394.6973,5/23/26,PROD-BAG-WHITE-LRG,West,Retail,Shipped,240.87,5
+TXN-03901,Edin Fogt ,EFOGT8P@PRNEWSWIRE.COM,(973) 327-0314,4/19/26,PROD-HAT-BLACK-XL,West,Online,Returned,234.16,6
+TXN-53526,Agretha Maryman,AMARYMAN8Q@SHINYSTAT.COM,(401) 814-7012,5/1/26,PROD-HAT-BLUE-SM,West,,Cancelled,155.96,1
+TXN-18444,Forest Zavattiero,FZAVATTIERO8R@NETLOG.COM,115-551-3935,4/6/26,PROD-SHIRT-WHITE-XL,East,Wholesale,Cancelled,578.48,7
+TXN-53871,Jillie Beacon ,jbeacon8s@foxnews.com,8243138178,3/22/26,PROD-SHIRT-BLUE-XL,East,Wholesale,,,7
+, Hugh Le Noury,hle8t@symantec.com,534.164.6491,3/8/26,PROD-HAT-WHITE-LRG,West,Wholesale,Cancelled,160.3,4
+TXN-17750,Eldon Iscowitz,eiscowitz8u@canalblog.com,2319409664,5/13/26,PROD-SHIRT-BLACK-XL,West,Wholesale,Shipped,243.47,6
+TXN-09748, Lida Hallan,lhallan8v@nationalgeographic.com,1068875721,3/31/26,PROD-HAT-WHITE-LRG,South,Online,,828.33,
+TXN-30531, Holmes Moncaster,HMONCASTER8W@ANGELFIRE.COM,,4/29/26,PROD-SHOE-WHITE-SM,East,Retail,Cancelled,444.66,8
+TXN-48078,Allister McAuslene,amcauslene8x@go.com,100.788.5250,3/15/26,PROD-SHIRT-BLUE-XL,South,Online,Shipped,117.89,
+TXN-07285,Luis Starling,lstarling8y@toplist.cz,838.716.8619,5/3/26,PROD-SHOE-RED-XL,West,Online,Shipped,441.17,2
+TXN-71618,Kerwin Reina,KREINA8Z@TRIPADVISOR.COM,(346) 723-9189,5/25/26,PROD-SHOE-WHITE-LRG,South,Online,Pending,787.04,3
+TXN-78182,Jim David ,,4409191872,,,East,Retail,Cancelled,,1
+TXN-97599,Gale Smallshaw,gsmallshaw91@cloudflare.com,769.546.0589,4/27/26,PROD-SHOE-RED-LRG,South,Wholesale,,634.69,4
+TXN-79394,Charo Cribbott,ccribbott92@pcworld.com,544-847-6729,3/15/26,PROD-SHIRT-BLACK-SM,South,Wholesale,Shipped,36.14,6
+TXN-49805,Teirtza Caddan,tcaddan93@amazon.com,589.722.5905,4/20/26,PROD-BAG-BLUE-XL,South,Wholesale,Shipped,686.8,3
+TXN-82894,Allyn Giddons,AGIDDONS94@CBSLOCAL.COM,809.920.8424,4/11/26,PROD-SHIRT-RED-SM,West,Retail,Cancelled,732.86,6
+TXN-85201,,LJOSEFSSON95@NETSCAPE.COM,576.492.4384,3/2/26,PROD-BAG-RED-LRG,East,Online,Returned,217.54,7
+TXN-00432,Sergeant Tarbin,STARBIN96@MAC.COM,120.804.2959,,PROD-BAG-WHITE-LRG,East,Wholesale,Shipped,132.96,4
+,Karleen Simonnot,,299-381-6700,5/21/26,PROD-BAG-BLACK-SM,West,Retail,Pending,,7
+TXN-30256,Jacenta Swedeland,jswedeland98@uol.com.br,5878134502,5/18/26,PROD-HAT-RED-MED,North,Online,Returned,813.05,3
+TXN-94969,Fancie Muffen,fmuffen99@ftc.gov,3239276356,5/23/26,,South,Retail,Cancelled,448.2,7
+TXN-19818, Anitra Frankema,,638.742.7445,05/11/2026,PROD-SHOE-WHITE-XL,East,Wholesale,Cancelled,,3
+TXN-37401, Aubert Greedy,AGREEDY9B@STORIFY.COM,589-584-2935,5/25/26,PROD-SHOE-WHITE-XL,North,Online,Shipped,448.99,7
+TXN-05008,Eben Lammenga ,ELAMMENGA9C@STATE.TX.US,931-261-5934,5/27/26,PROD-HAT-WHITE-LRG,West,Retail,Cancelled,74.69,5
+TXN-88505,mirabella antoniewicz,mantoniewicz9d@netscape.com,2176346542,5/4/26,PROD-SHOE-WHITE-SM,North,Online,Returned,807.04,7
+TXN-12686,Selene Meakin,,4996119565,05/01/2026,PROD-HAT-RED-XL,North,Online,Returned,396.33,4
+TXN-35174,Jammal Rudkin,jrudkin9f@vkontakte.ru,4813724437,3/22/26,PROD-SHIRT-WHITE-XL,East,Retail,Shipped,111.05,4
+TXN-05617,Frannie Hothersall,FHOTHERSALL9G@ADDTOANY.COM,251-995-2963,4/10/26,PROD-SHOE-WHITE-MED,North,Online,Shipped,128.05,2
+TXN-71712,nevins lys ,NLYS9H@UIUC.EDU,522-933-3643,,PROD-HAT-WHITE-XL,West,Retail,Shipped,690.35,8
+TXN-48271,madelon murra,mmurra9i@elegantthemes.com,5832394731,2/28/26,PROD-SHOE-WHITE-SM,,Retail,Pending,641.54,8
+TXN-55144,Kirsti Peterkin,kpeterkin9j@sina.com.cn,5278177087,4/8/26,PROD-BAG-RED-MED,North,Retail,Shipped,242.83,4
+TXN-46693,Cart Rossander,CROSSANDER9K@YAHOO.CO.JP,9739726791,3/3/26,PROD-BAG-RED-LRG,East,Retail,Shipped,135.25,4
+TXN-31016, ,BSTROWTHERS9L@PHP.NET,239.427.2726,3/7/26,PROD-BAG-BLACK-MED,East,Retail,Pending,394.09,7
+TXN-21804,Tracee Vanacci,TVANACCI9M@GOV.UK,504-472-1466,4/14/26,,West,Online,Cancelled,762.53,8
+TXN-45387,Oswald Notman,onotman9n@indiatimes.com,443.578.2714,04/21/2026,PROD-HAT-BLACK-XL,North,Online,Cancelled,327.72,2
+TXN-74571,Hewie Playfoot,hplayfoot9o@biblegateway.com,624.543.6893,4/16/26,PROD-SHOE-BLUE-XL,,Online,,238.21,1
+,Madelon Hacun,,6867921001,3/26/26,PROD-SHOE-WHITE-MED,South,Wholesale,Shipped,342.49,3
+TXN-60478,Adel Antonignetti,aantonignetti9q@google.com.hk,1509921987,3/29/26,PROD-SHIRT-RED-LRG,East,Wholesale,Pending,344.52,5
+TXN-77435, ,aizatt9r@symantec.com,7691702056,4/17/26,PROD-SHIRT-RED-XL,North,Wholesale,Returned,52.72,8
+TXN-21373,parker sagerson ,PSAGERSON9S@ORACLE.COM,260-743-5491,4/28/26,PROD-HAT-RED-MED,West,Online,Shipped,442.83,6
+TXN-28110,Dale Vigours ,dvigours9t@de.vu,3719687766,4/5/26,,,Wholesale,Cancelled,656.73,7
+TXN-78478,Garret Jeaneau,gjeaneau9u@fastcompany.com,8686669213,,PROD-BAG-RED-XL,East,Online,Pending,130.82,4
+TXN-23056,Freddie Nunson,FNUNSON9V@OPENSOURCE.ORG,7822810997,3/13/26,PROD-HAT-BLACK-SM,North,Online,Shipped,729.33,
+TXN-45669,Dolley Meyrick,dmeyrick9w@ca.gov,(334) 433-7721,04/18/2026,PROD-SHOE-BLUE-LRG,,Online,Cancelled,,7
+TXN-39315,Clayborne Sidnall ,CSIDNALL9X@OPENSOURCE.ORG,7335059217,5/6/26,PROD-HAT-BLUE-XL,West,Retail,Returned,544.31,4
+TXN-02200,Bekki Renbold,brenbold9y@guardian.co.uk,436.604.0164,5/6/26,PROD-BAG-WHITE-LRG,North,,Cancelled,629.66,1
+TXN-42645,,LCRUCITTI9Z@EPA.GOV,9917322228,5/17/26,PROD-BAG-BLUE-SM,East,,Returned,730.51,8
+TXN-15035,ida simister,ISIMISTERA0@PSU.EDU,427-889-1758,4/1/26,PROD-SHOE-BLACK-XL,West,Wholesale,Pending,842.81,8
+TXN-48305, Kass Bravey,kbraveya1@slate.com,567.669.4629,5/4/26,PROD-BAG-WHITE-SM,East,Retail,Returned,135.98,
+TXN-91453,Scarface Franceschino ,sfranceschinoa2@merriam-webster.com,(170) 925-0884,4/4/26,PROD-HAT-BLACK-XL,South,Online,Returned,487.88,7
+TXN-94846,Filmore Cragg,fcragga3@time.com,(383) 251-8195,03/12/2026,PROD-BAG-WHITE-MED,,Retail,Pending,207.58,5
+TXN-11926,,nsallissa4@edublogs.org,5856640666,3/29/26,PROD-SHOE-BLUE-MED,South,Retail,Shipped,706.33,1
+TXN-30426,Bernadine Pudney,bpudneya5@free.fr,490-299-2846,3/14/26,PROD-SHIRT-WHITE-MED,North,Online,Cancelled,397.43,8
+, Rosene Penhearow,rpenhearowa6@si.edu,4932042340,3/6/26,PROD-HAT-BLUE-XL,West,Wholesale,Pending,381.27,3
+TXN-14886, ,FBESANTIEA7@UMN.EDU,934.175.4819,5/22/26,PROD-SHIRT-BLUE-MED,West,Online,Cancelled,462.56,8
+TXN-79439,Florette Oland,FOLANDA8@LOC.GOV,111-928-7586,3/21/26,PROD-HAT-BLACK-XL,North,Wholesale,Pending,175.87,4
+TXN-64844,Erika Carvilla ,ecarvillaa9@psu.edu,322.157.9335,3/29/26,PROD-SHOE-BLACK-SM,East,Retail,Returned,745.74,4
+TXN-14092, Samaria Coan,scoanaa@drupal.org,448-334-9644,05/04/2026,PROD-HAT-WHITE-MED,East,Retail,Shipped,227.43,4
+TXN-72186,Dewie Ramlot,DRAMLOTAB@PRNEWSWIRE.COM,6489585351,5/22/26,PROD-BAG-BLUE-MED,East,Online,Shipped,,
+TXN-43241,,TEMANUELLIAC@SHAREASALE.COM,755.736.0532,4/15/26,PROD-SHIRT-BLACK-MED,,Online,Cancelled,342.26,
+TXN-41069, Rosaline Jurs,RJURSAD@ED.GOV,6199948876,5/21/26,PROD-BAG-RED-SM,South,Retail,Shipped,,
+,Camila Desborough,CDESBOROUGHAE@WEATHER.COM,131.884.8694,4/22/26,PROD-BAG-BLACK-SM,South,Wholesale,Cancelled,,6
+TXN-99057,Gwendolin Sharpless,GSHARPLESSAF@SMUGMUG.COM,6161555682,3/30/26,PROD-HAT-WHITE-MED,North,Wholesale,Shipped,285.67,7
+TXN-18296,Thatcher Janes,tjanesag@tinypic.com,(746) 807-1821,4/8/26,PROD-HAT-BLUE-XL,,Retail,Returned,,5
+TXN-15333,Shell Breeder,SBREEDERAH@HARVARD.EDU,657.449.9606,5/1/26,PROD-SHIRT-RED-SM,North,Wholesale,Shipped,,4
+TXN-56665,Wilbert Garmey,WGARMEYAI@BUSINESSINSIDER.COM,(690) 187-3382,5/6/26,PROD-SHIRT-BLUE-LRG,West,Online,Cancelled,505.1,8
+TXN-68531,Silas Britee ,sbriteeaj@mozilla.com,7457345031,5/18/26,PROD-SHIRT-BLACK-SM,North,Retail,Cancelled,,6
+TXN-81364,Gillan Buxey,GBUXEYAK@HUGEDOMAINS.COM,254-662-7572,03/01/2026,PROD-BAG-BLACK-MED,North,Wholesale,Shipped,736.52,6
+TXN-64820,Alikee Swanger,ASWANGERAL@VISTAPRINT.COM,928-897-6162,4/1/26,PROD-BAG-RED-XL,West,Online,Returned,491.34,2
+TXN-76136,Jesus Penniell,jpenniellam@hud.gov,1938391941,4/24/26,PROD-SHIRT-BLUE-MED,East,Wholesale,Returned,693.14,3
+TXN-55131,Hodge Bernhard,hbernhardan@unicef.org,656-760-9202,5/9/26,PROD-HAT-BLUE-LRG,East,Retail,Cancelled,302.56,1
+TXN-74421,Angelina Dobel,ADOBELAO@YELP.COM,207-784-1661,3/28/26,PROD-BAG-BLUE-MED,East,Wholesale,Shipped,262.16,4
+TXN-81822, Idaline Kivlin,IKIVLINAP@GOOGLE.IT,996-546-0759,3/3/26,PROD-SHOE-WHITE-XL,,Online,Shipped,429.73,1
+TXN-22946, Carmelina Soonhouse,CSOONHOUSEAQ@CNET.COM,(959) 638-9585,4/1/26,PROD-SHOE-WHITE-XL,West,Wholesale,Returned,98.44,4
+TXN-55882,Bette-ann Baddoe,BBADDOEAR@UNBLOG.FR,(778) 427-7425,3/22/26,PROD-HAT-WHITE-XL,West,Retail,Returned,408.07,8
+TXN-86977,matthias kinver,mkinveras@mapy.cz,127-775-4146,5/11/26,PROD-HAT-BLUE-SM,North,Online,Shipped,198.07,6
+TXN-80490,Zola Gawkroge,ZGAWKROGEAT@OPERA.COM,825-860-5063,3/22/26,PROD-HAT-RED-XL,West,Retail,Pending,731.76,4
+TXN-25365,andriette jolliman,,(737) 355-7724,5/20/26,PROD-BAG-RED-LRG,South,Online,Returned,744.2,
+TXN-27153,Washington Thompson,wthompsonav@de.vu,(429) 252-6132,3/14/26,,,Wholesale,Shipped,245.75,7
+TXN-39932,Fiona Yurov,FYUROVAW@SENATE.GOV,5719664476,5/8/26,PROD-HAT-BLACK-SM,South,Online,,744.35,
+TXN-05237,Karlotta Kobelt,kkobeltax@tinypic.com,(552) 825-6918,5/24/26,PROD-BAG-BLUE-XL,South,Online,Shipped,750.42,3
+TXN-06400,Corie McTeer,CMCTEERAY@SBWIRE.COM,5393897858,3/21/26,PROD-SHIRT-BLACK-LRG,South,,Returned,,
+TXN-76411,Chiarra Hawe,CHAWEAZ@DION.NE.JP,(589) 812-0860,4/15/26,PROD-HAT-RED-MED,South,Online,Returned,114.55,1
+TXN-65051,Wayland Milhench ,wmilhenchb0@economist.com,(870) 351-2796,5/8/26,PROD-BAG-RED-SM,North,Wholesale,Shipped,,
+TXN-98385,Rebe Leighfield,rleighfieldb1@webs.com,712.205.5263,4/19/26,PROD-HAT-WHITE-LRG,South,Online,Pending,410.44,3
+TXN-98733,Samantha Stonebridge,sstonebridgeb2@si.edu,(191) 863-4033,5/21/26,PROD-SHOE-RED-LRG,,Wholesale,Cancelled,,1
+TXN-35924,Hatti Gheorghe,hgheorgheb3@home.pl,468-561-0851,,PROD-HAT-RED-LRG,,Online,Pending,,1
+TXN-15878,Mireielle Thunnercliffe,mthunnercliffeb4@seattletimes.com,2772234201,3/7/26,PROD-HAT-RED-XL,South,Online,Shipped,262.93,3
+TXN-79218,Yasmin Bottom,,9898091607,,PROD-BAG-BLUE-XL,East,,Returned,826,7
+TXN-00724, Ragnar McLugish,rmclugishb6@webmd.com,162.171.0972,4/26/26,PROD-HAT-RED-XL,South,Online,Shipped,765.93,1
+TXN-81374,Francyne Aynsley ,faynsleyb7@storify.com,8138180559,3/6/26,PROD-SHIRT-BLACK-XL,,Retail,Cancelled,573.43,7
+,pearline vallentine,,179.475.5238,3/16/26,PROD-HAT-WHITE-XL,,Retail,Shipped,586.75,1
+TXN-04919,Joyous Lifsey,JLIFSEYB9@PUREVOLUME.COM,531.600.2675,4/2/26,PROD-HAT-BLUE-SM,North,Retail,Shipped,,7
+TXN-75296,Tammie Christene,tchristeneba@answers.com,(707) 610-2453,5/9/26,PROD-HAT-BLACK-XL,East,Online,Shipped,690.29,3
+TXN-68101, Jasun Schimaschke,jschimaschkebb@army.mil,(406) 459-8683,5/15/26,PROD-SHIRT-RED-SM,South,Wholesale,Returned,609.95,8
+TXN-43182,scarface paddy,SPADDYBC@INDIEGOGO.COM,864.317.3585,3/30/26,PROD-SHIRT-BLACK-SM,West,Retail,Cancelled,525.5,6
+TXN-34111,odele stenbridge,OSTENBRIDGEBD@SHUTTERFLY.COM,(799) 426-2647,5/23/26,PROD-SHOE-RED-XL,,Online,Cancelled,57.43,1
+TXN-23971, ,sanderbe@mtv.com,2291587235,3/25/26,PROD-SHOE-RED-XL,North,Retail,Returned,796.81,5
+TXN-26984,Tiebold Fiddymont,TFIDDYMONTBF@TINYURL.COM,(692) 187-8874,4/28/26,PROD-SHOE-BLUE-LRG,,Online,Pending,,
+TXN-24183,Angelika Hatt ,ahattbg@yandex.ru,612.503.0890,4/22/26,PROD-HAT-BLACK-MED,North,Retail,Shipped,481.72,5
+TXN-22075,shanon wakeford,swakefordbh@hud.gov,937-616-1678,4/14/26,,West,Retail,Cancelled,750.11,7
+TXN-59486,Issi Tarling,itarlingbi@businessweek.com,794.150.0048,3/20/26,PROD-BAG-BLUE-LRG,West,Wholesale,Returned,354.51,6
+TXN-03206,Caressa Streater,cstreaterbj@hp.com,(711) 392-7808,,PROD-HAT-RED-MED,,Retail,Cancelled,525.99,2
+TXN-45189,Sibyl Bennetts ,SBENNETTSBK@TOPSY.COM,481-592-3222,3/29/26,PROD-SHIRT-BLACK-MED,,Retail,Cancelled,438.12,1
+TXN-94573,Giles Tebbutt,GTEBBUTTBL@FACEBOOK.COM,801-773-2103,4/17/26,PROD-SHIRT-WHITE-LRG,,Retail,Shipped,47.82,6
+TXN-36339,Kaylyn Masserel,KMASSERELBM@FREEWEBS.COM,987-398-4825,03/16/2026,PROD-HAT-BLACK-XL,West,Wholesale,,84.18,7
+TXN-34664, Bobbi Chalcot,BCHALCOTBN@PEOPLE.COM.CN,262.272.4445,4/20/26,,,Online,Shipped,333.24,
+TXN-18518,Esmeralda Hosten,EHOSTENBO@CLICKBANK.NET,738-579-8160,2/28/26,PROD-HAT-BLUE-SM,West,Wholesale,Pending,443.53,6
+,Beniamino Deddum,bdeddumbp@patch.com,715-446-5132,3/31/26,PROD-SHIRT-BLACK-MED,East,Retail,Cancelled,402.23,7
+TXN-50854,Emlynn Gallant,,1001718129,5/16/26,PROD-BAG-WHITE-MED,East,Online,,80.69,8
+TXN-76354, kendra o'fergus,kofergusbr@netvibes.com,9781326049,5/23/26,,East,Retail,Shipped,43.78,4
+TXN-01433, perry gomery,pgomerybs@ovh.net,743-884-1975,5/1/26,PROD-SHIRT-BLUE-XL,South,Retail,Shipped,,4
+TXN-31268,Claudine Rhelton,CRHELTONBT@VINAORA.COM,6032174398,5/2/26,PROD-SHIRT-BLUE-LRG,West,Wholesale,Pending,86.69,3
+TXN-08298, brooks kinnear,bkinnearbu@google.fr,837.147.6030,5/12/26,PROD-BAG-RED-SM,,Retail,Returned,,2
+TXN-27706,Chelsea Schleicher,cschleicherbv@thetimes.co.uk,361-133-3228,4/1/26,,West,Wholesale,Cancelled,847.68,5
+,Sholom Raistrick,SRAISTRICKBW@CDC.GOV,(540) 314-4307,4/15/26,PROD-HAT-BLACK-MED,North,Wholesale,Pending,635.51,4
+TXN-62475,Timmy Eyree,teyreebx@virginia.edu,588.869.7400,3/30/26,PROD-SHIRT-BLUE-LRG,West,Retail,Returned,710.67,2
+TXN-31981, Renie Gannicleff,RGANNICLEFFBY@VKONTAKTE.RU,801.704.6597,,PROD-HAT-BLUE-XL,North,Retail,Pending,,
+TXN-58683,Tedda Hembry,THEMBRYBZ@BLUEHOST.COM,360.780.6298,04/30/2026,PROD-SHIRT-BLACK-MED,,Online,Cancelled,579.13,7
+TXN-65466,Fanechka Moss,fmossc0@spotify.com,7131411263,5/2/26,PROD-HAT-RED-XL,East,,Returned,390.98,
+TXN-67052,Barron Biddles,bbiddlesc1@guardian.co.uk,988-603-9114,4/30/26,PROD-SHIRT-RED-SM,East,Online,Shipped,508.72,7
+TXN-93314,Gianna Burder,gburderc2@gravatar.com,946.235.3202,5/16/26,,,Online,Pending,500.31,8
+TXN-20061,Serene Bromehead,sbromeheadc3@narod.ru,347.613.2330,4/10/26,PROD-HAT-RED-XL,South,Online,Cancelled,451.63,2
+TXN-13524,Maud Sorrel,MSORRELC4@FT.COM,1068664848,4/19/26,PROD-BAG-RED-LRG,North,Wholesale,,822.9,2
+TXN-21335, Ronnica Cutcliffe,RCUTCLIFFEC5@BLOGS.COM,,3/9/26,PROD-HAT-WHITE-LRG,South,Wholesale,Pending,632.55,1
+TXN-68268, ,,(773) 363-4861,04/09/2026,,South,Online,Cancelled,,8
+TXN-04893,Penrod Webborn,PWEBBORNC7@UOL.COM.BR,849-535-2181,3/20/26,PROD-SHIRT-BLACK-SM,North,Online,Returned,575,
+,Worthington Adlington ,wadlingtonc8@squarespace.com,817-296-9657,4/14/26,PROD-HAT-BLUE-MED,South,Retail,Cancelled,,
+TXN-87715,Dorisa Tryme ,DTRYMEC9@COM.COM,213.110.3342,05/12/2026,PROD-SHOE-WHITE-MED,,Online,Cancelled,169.63,4
+TXN-82899,Molly Summerside,MSUMMERSIDECA@BIGCARTEL.COM,923.574.6716,5/23/26,,West,Wholesale,Returned,738.12,2
+TXN-42786,Daffie Thurlborn,dthurlborncb@bluehost.com,(143) 227-4084,,PROD-BAG-BLUE-SM,East,Online,Returned,173.82,4
+TXN-93380,adelle ramelet,arameletcc@yellowpages.com,(979) 878-1739,4/22/26,PROD-HAT-WHITE-LRG,East,Retail,Returned,337.3,6
+TXN-97025,trey nail,TNAILCD@STUDIOPRESS.COM,4166695896,5/17/26,PROD-BAG-BLACK-XL,South,Wholesale,Cancelled,120.02,1
+TXN-17304,Silvia Tinn,stinnce@merriam-webster.com,(497) 187-3927,,PROD-SHIRT-BLACK-SM,West,Retail,Pending,824.39,8
+TXN-04262,Lydia Neiland ,LNEILANDCF@ABC.NET.AU,772.225.3686,5/15/26,PROD-HAT-BLUE-MED,West,Retail,Cancelled,300.23,3
+TXN-09207,Bogart Edsell,BEDSELLCG@CNN.COM,298-381-5154,4/18/26,PROD-SHIRT-WHITE-MED,South,Retail,Returned,549.06,1
+TXN-49814,Smith Poulsen,spoulsench@un.org,(832) 774-9294,3/6/26,PROD-SHOE-RED-SM,East,Wholesale,Shipped,36.08,1
+TXN-06942,Valli Heinrich,,963.335.7721,4/24/26,PROD-BAG-BLACK-XL,West,Retail,Cancelled,94.75,4
+TXN-47013,Fidelity Kermeen,FKERMEENCJ@PHP.NET,486.643.9146,3/20/26,PROD-HAT-RED-LRG,South,Online,Pending,117.01,
+TXN-43798,clemens haack,chaackck@google.co.jp,733.920.0346,4/1/26,PROD-BAG-BLUE-XL,East,Wholesale,Returned,287.95,2
+TXN-85269, ,hbrosinicl@cloudflare.com,(835) 183-8366,5/17/26,PROD-SHIRT-WHITE-MED,North,Wholesale,Shipped,537.69,3
+TXN-39745, Gwenora Linkin,glinkincm@opera.com,691-790-8370,5/4/26,PROD-BAG-BLACK-LRG,East,Online,Returned,556.36,5
+TXN-76813,Roddie Lum,RLUMCN@DOMAINMARKET.COM,(780) 648-4891,4/30/26,PROD-SHIRT-BLACK-LRG,South,Wholesale,Returned,658.19,7
+TXN-69283,Aleta Garaghan,AGARAGHANCO@GLOBO.COM,737-550-9837,04/01/2026,PROD-SHIRT-RED-MED,East,Online,Shipped,826.63,4
+TXN-19030,Brandie Nacci,bnaccicp@icio.us,213.548.6128,5/27/26,PROD-SHOE-BLACK-MED,,Retail,Pending,128.6,1
+,,,544.362.7011,4/28/26,PROD-SHIRT-RED-SM,North,Online,Cancelled,,
+TXN-50764, Emlen Ugoni,eugonicr@harvard.edu,,4/2/26,PROD-BAG-BLACK-LRG,,Retail,Cancelled,359.21,6
+TXN-01632,Mac Schnieder,MSCHNIEDERCS@VK.COM,214.518.5136,4/6/26,PROD-SHOE-WHITE-MED,South,Wholesale,Returned,348.64,6
+TXN-84582,Hamlin Domek,HDOMEKCT@JAPANPOST.JP,356.480.6787,5/2/26,PROD-SHOE-BLACK-LRG,East,Retail,Shipped,,4
+TXN-88725,Anna-maria Adriano,aadrianocu@utexas.edu,(547) 985-0689,3/8/26,PROD-SHOE-BLUE-XL,West,Online,Shipped,486.9,1
+TXN-26327,Salome Merring,SMERRINGCV@DAGONDESIGN.COM,754.209.3427,5/3/26,PROD-BAG-BLACK-MED,East,,Pending,238.56,5
+TXN-15263, Prue Tommeo,PTOMMEOCW@GOOGLE.PL,3528808976,,PROD-SHOE-RED-LRG,North,Wholesale,Cancelled,51.62,1
+TXN-35708,Nancee Dewane ,ndewanecx@umich.edu,631.218.3694,3/10/26,,East,Wholesale,Pending,710.15,3
+TXN-87771,Mal Sans,MSANSCY@FLICKR.COM,595.620.3382,5/18/26,PROD-BAG-RED-MED,North,Online,Shipped,30.24,1
+TXN-30285,Benton Brundle,BBRUNDLECZ@ELPAIS.COM,981-321-8397,5/23/26,PROD-SHOE-BLACK-SM,East,Wholesale,Cancelled,200.89,5
+TXN-71904,Gayel Lossman,glossmand0@marriott.com,(402) 697-3675,3/22/26,,East,Retail,Shipped,367.85,5
+TXN-00391,Upton Le Barr,uled1@washington.edu,944-689-5778,4/30/26,PROD-SHIRT-BLACK-LRG,North,Online,Pending,,1
+,Nan Elgey,nelgeyd2@amazon.co.jp,(626) 350-6709,3/21/26,PROD-SHOE-BLUE-LRG,,Retail,Returned,,8
+TXN-61646,valdemar o'loughlin,VOLOUGHLIND3@ENGADGET.COM,857-782-5560,3/8/26,PROD-BAG-WHITE-MED,South,,Pending,199.81,3
+TXN-89883, Hirsch Stedell,hstedelld4@goo.ne.jp,618-325-0899,4/12/26,PROD-SHIRT-BLUE-XL,South,Online,Pending,839.14,4
+TXN-34839,Nil Tort,NTORTD5@USATODAY.COM,(536) 260-7288,5/17/26,PROD-SHIRT-BLACK-XL,South,Retail,Cancelled,107.79,
+,Madlen Le Estut,,172.516.4258,,PROD-BAG-BLACK-LRG,North,,Cancelled,387.27,
+TXN-21399,Reynard Lygoe,rlygoed7@t-online.de,9425111090,3/9/26,PROD-SHOE-WHITE-XL,West,Retail,Shipped,297.69,
+TXN-77149,Dody Caswill,dcaswilld8@bizjournals.com,405.555.3095,3/15/26,PROD-SHIRT-BLUE-XL,West,Retail,Returned,,4
+TXN-04596, Larry Hoyles,LHOYLESD9@CNET.COM,329.256.1048,,PROD-SHIRT-RED-LRG,West,Retail,Pending,459.97,
+TXN-01386,Henderson Chettle,HCHETTLEDA@USDA.GOV,7452295232,4/29/26,PROD-BAG-BLACK-SM,,Wholesale,Cancelled,292.45,5
+TXN-32911,Othelia Roseman,,4936247935,3/12/26,PROD-SHIRT-RED-LRG,South,Retail,Pending,610.65,6
+TXN-30112,Taylor Crowcum,tcrowcumdc@i2i.jp,,3/27/26,PROD-BAG-BLACK-SM,South,Retail,Pending,150.52,3
+TXN-74530,Jennie Kibbye,jkibbyedd@mysql.com,6702780110,4/6/26,PROD-HAT-BLACK-MED,South,Retail,Cancelled,296.91,8
+TXN-16474,Dulcea Reeken,DREEKENDE@DMOZ.ORG,964.698.0484,05/13/2026,PROD-SHOE-WHITE-XL,West,Retail,Pending,136.34,5
+TXN-35600,Ferdinande Wayon,fwayondf@weibo.com,8028827428,,,West,Retail,Returned,422.23,7
+TXN-24988,Reynold Matveyev,RMATVEYEVDG@TOPSY.COM,169-435-3685,3/27/26,PROD-SHOE-BLACK-XL,,Online,,492.76,6
+TXN-07635,Dilan Skittrell,dskittrelldh@newyorker.com,,4/25/26,PROD-BAG-BLUE-XL,West,Wholesale,Cancelled,580.78,2
+TXN-68991,Hobard Mursell ,HMURSELLDI@CHRONOENGINE.COM,9722399466,3/28/26,PROD-SHIRT-BLUE-MED,North,Online,Pending,392.1,
+TXN-19409,Ulick Slatcher,USLATCHERDJ@YELLOWBOOK.COM,888.926.3756,5/1/26,PROD-SHIRT-BLACK-LRG,North,Retail,Pending,801.81,8
+,Lianne Narrie,LNARRIEDK@ABOUT.ME,374.938.4874,,,North,Retail,Shipped,416.86,7
+TXN-58078,Goraud Kentwell,gkentwelldl@shutterfly.com,,5/11/26,PROD-HAT-BLACK-XL,,Retail,Returned,658.06,6
+TXN-68957,Emelen Massow,emassowdm@delicious.com,(327) 425-3191,5/4/26,,,Wholesale,Shipped,337.61,5
+TXN-12849,Jan Whetnell ,jwhetnelldn@comcast.net,1744054943,5/10/26,,,Online,Shipped,114.74,1
+TXN-81999,Jillayne Howman,jhowmando@goodreads.com,,5/27/26,PROD-HAT-RED-LRG,West,Retail,Pending,524.92,
+TXN-51010,Bernardine Redshaw,BREDSHAWDP@GITHUB.IO,203-526-5420,,PROD-HAT-RED-LRG,West,Wholesale,Returned,540.2,7
+,Wilmette Dealey,wdealeydq@tmall.com,387-108-4074,04/08/2026,PROD-HAT-BLUE-MED,North,Retail,Returned,375.77,8
+,Ara Matthaus,,9558052706,,PROD-BAG-BLACK-XL,West,Retail,Pending,397.74,8
+TXN-10804,Moore Gerler,mgerlerds@phoca.cz,(484) 206-7195,3/28/26,PROD-SHOE-BLACK-LRG,,Retail,Shipped,,1
+TXN-81134, Adore Roderick,ARODERICKDT@TAOBAO.COM,634-272-8524,4/20/26,PROD-SHIRT-BLACK-SM,,Wholesale,Returned,433.33,7
+TXN-16792,Nixie Bigg,nbiggdu@addtoany.com,253-752-3943,5/2/26,PROD-BAG-WHITE-XL,South,Online,Returned,605.06,6
+TXN-21988,Ade Dymock,adymockdv@fastcompany.com,139-349-5432,4/4/26,PROD-HAT-BLACK-MED,South,Online,Cancelled,757.56,
+TXN-73339,niel mellers,NMELLERSDW@BEHANCE.NET,(622) 742-1387,4/19/26,PROD-SHIRT-WHITE-XL,South,Online,Returned,643.35,4
+TXN-61136,Minni Koubu,MKOUBUDX@SCIENTIFICAMERICAN.COM,(943) 658-8991,3/1/26,PROD-SHOE-BLACK-XL,South,Online,Cancelled,277.03,7
+TXN-11123,cathrin grahlman ,,(587) 511-2079,4/16/26,PROD-HAT-BLUE-XL,,Retail,Cancelled,586.79,4
+TXN-91000,Tore Delort,TDELORTDZ@LIST-MANAGE.COM,(971) 338-6501,4/10/26,PROD-SHOE-RED-SM,West,Online,Cancelled,52.85,
+TXN-18281,Sully Chart ,scharte0@apache.org,,3/3/26,PROD-BAG-BLACK-LRG,North,Online,Shipped,,2
+TXN-97686,Kelvin Drakard,KDRAKARDE1@CPANEL.NET,,5/27/26,PROD-HAT-BLACK-XL,North,Retail,Returned,190.12,5
+TXN-53588,harald wyley ,hwyleye2@webs.com,5561935449,5/25/26,PROD-SHOE-BLACK-MED,East,Wholesale,,578.55,6
+TXN-84360,Henriette Cobbald,HCOBBALDE3@PUREVOLUME.COM,543.302.6877,4/11/26,PROD-BAG-BLACK-LRG,West,Retail,Shipped,332.16,2
+TXN-70449,gabriela macnalley,gmacnalleye4@wisc.edu,695-254-7835,3/31/26,PROD-SHOE-WHITE-LRG,South,Wholesale,Cancelled,540.45,6
+, ,swantlinge5@fotki.com,561-755-1645,4/13/26,PROD-BAG-WHITE-SM,East,Wholesale,Returned,307.66,5
+TXN-02675,Solly Mathivet,smathivete6@fda.gov,(319) 770-2924,5/17/26,PROD-SHOE-RED-SM,West,Online,Returned,590.55,2
+TXN-12303,Gerri Tyre,GTYREE7@ICQ.COM,143.652.5421,4/29/26,PROD-SHOE-WHITE-SM,West,Wholesale,Cancelled,580.29,2
+TXN-07512,Thorpe Phillis,TPHILLISE8@ECONOMIST.COM,3126055305,,PROD-HAT-WHITE-SM,,Wholesale,Returned,787.74,8
+TXN-34942,Fanny De Gouy,FDEE9@DISCUZ.NET,273.638.6373,3/5/26,PROD-SHOE-BLACK-SM,North,Online,Cancelled,57.87,2
+TXN-82776,Fawne Bauldry,fbauldryea@stanford.edu,8401905470,3/4/26,PROD-SHIRT-BLACK-SM,,,Pending,764.55,5
+TXN-03939,Heather Drinkwater,hdrinkwatereb@home.pl,7425585974,4/1/26,PROD-SHOE-BLACK-XL,West,Retail,Cancelled,185.33,8
+TXN-58181,darla simonato,dsimonatoec@guardian.co.uk,7069759146,3/7/26,PROD-SHOE-BLUE-LRG,North,Online,Shipped,91.2,5
+TXN-62733,nina macgrath,NMACGRATHED@WIKIA.COM,785.230.3276,5/19/26,PROD-SHOE-BLUE-SM,North,Online,Shipped,329.86,5
+TXN-38541, ,BRANKLINEE@EPA.GOV,976.911.2990,5/15/26,PROD-SHOE-BLUE-LRG,West,Wholesale,Cancelled,267.63,7
+TXN-33795,Kathrine von Grollmann,,113.964.0656,3/4/26,PROD-SHIRT-BLACK-LRG,South,Online,,662.93,1
+TXN-78140,sharl mcgonigal,SMCGONIGALEG@STUMBLEUPON.COM,101.466.4771,5/20/26,,East,Online,Pending,557.14,6
+TXN-41489,Mannie Ashford,mashfordeh@cdc.gov,142-177-0048,,PROD-BAG-BLUE-LRG,West,Wholesale,Shipped,,4
+TXN-01465, Mella Beirne,mbeirneei@odnoklassniki.ru,283-410-7912,4/14/26,PROD-SHOE-BLACK-XL,West,Online,Cancelled,157.95,
+TXN-49559, ,LBASKETTEJ@COMSENZ.COM,(577) 668-9290,2/28/26,PROD-BAG-RED-SM,North,Online,Cancelled,581.19,2
+TXN-96012,Caralie Giggie,CGIGGIEEK@CAFEPRESS.COM,(779) 753-6307,4/8/26,PROD-BAG-BLACK-SM,South,Wholesale,Cancelled,83.35,
+,Gretchen Francke,GFRANCKEEL@GOO.NE.JP,7737685300,3/10/26,PROD-BAG-WHITE-SM,North,Wholesale,Returned,145.7,
+TXN-00611,Kirsteni Lamprecht ,KLAMPRECHTEM@SPHINN.COM,103.645.1945,4/2/26,PROD-SHOE-BLUE-MED,East,Online,Shipped,104.83,5
+TXN-96466,Carmella Banaszczyk,CBANASZCZYKEN@BIGCARTEL.COM,553.965.7136,5/18/26,,West,Online,Cancelled,828.71,6
+TXN-68173, Krisha Shields,kshieldseo@latimes.com,(665) 775-7245,4/24/26,PROD-SHIRT-BLUE-MED,East,Wholesale,Pending,649.21,3
+TXN-51894,Iver Gowlett,IGOWLETTEP@AMAZON.CO.UK,512.430.1636,2/28/26,PROD-SHOE-BLUE-SM,South,Online,Pending,121.61,3
+TXN-48304, Orelle Enns,oennseq@imageshack.us,764.209.7497,3/17/26,,North,Retail,Cancelled,,5
+TXN-88464,Fara Patley,FPATLEYER@BLOGSPOT.COM,963-346-7656,3/31/26,PROD-HAT-RED-MED,East,Wholesale,Shipped,557.6,7
+TXN-27048,Elfrida Mazzia,EMAZZIAES@FREE.FR,7649805544,4/27/26,PROD-SHIRT-RED-LRG,East,Retail,Pending,,5
+TXN-65981,kitti lambis,klambiset@globo.com,479.233.5554,,PROD-SHIRT-BLUE-XL,East,Retail,Shipped,,3
+TXN-84719,Constantina Meeson,CMEESONEU@COCOLOG-NIFTY.COM,4968252151,5/23/26,,South,Retail,Shipped,705.93,2
+TXN-14103,Meta Alloway,MALLOWAYEV@T-ONLINE.DE,(463) 414-4160,4/26/26,PROD-SHIRT-BLUE-LRG,South,Retail,Shipped,353.94,4
+TXN-94462, Wenonah Kardos-Stowe,wkardosstoweew@ifeng.com,1486114246,4/20/26,PROD-SHOE-RED-SM,West,Retail,Pending,768.75,8
+TXN-74950,Peg Berrill ,PBERRILLEX@ASK.COM,200.293.8684,3/21/26,PROD-SHIRT-RED-XL,North,Retail,Pending,,4
+,Tabb McGougan,tmcgouganey@ihg.com,1518668023,3/16/26,PROD-SHIRT-BLACK-XL,West,Online,Pending,843.08,4
+,gerianne thal,GTHALEZ@163.COM,,3/18/26,PROD-SHOE-WHITE-SM,South,Retail,Pending,758.55,3
+TXN-55109,Cal MacBean,cmacbeanf0@bluehost.com,535-662-0569,5/6/26,PROD-HAT-BLACK-LRG,East,Retail,Pending,157.21,
+TXN-12459,Westleigh Douche,WDOUCHEF1@SINA.COM.CN,5181160024,4/28/26,PROD-HAT-WHITE-XL,South,Online,Shipped,806.27,3
+TXN-81071,karmen tedman ,ktedmanf2@imgur.com,(145) 597-6741,5/15/26,PROD-HAT-WHITE-SM,East,Wholesale,Shipped,139.45,7
+TXN-47203,Milissent Davley,MDAVLEYF3@FASTCOMPANY.COM,477.635.7745,03/27/2026,PROD-BAG-WHITE-SM,East,Retail,Pending,277.07,7
+TXN-43185,Jocelyn Crossgrove,jcrossgrovef4@example.com,2585004360,,PROD-HAT-BLACK-SM,,Retail,Shipped,445.73,4
+TXN-54531,Edgard Braemer,EBRAEMERF5@ISTOCKPHOTO.COM,3921173934,5/25/26,PROD-BAG-BLUE-MED,South,,Pending,361.47,4
+TXN-45304,Miguel Matysiak,,,4/19/26,PROD-BAG-BLUE-MED,,,Cancelled,184.3,4
+TXN-47800,,,(284) 967-2309,5/12/26,PROD-SHIRT-WHITE-MED,South,Wholesale,Cancelled,701.09,3
+TXN-09445,adolf ioan,AIOANF8@DISCOVERY.COM,635.561.0934,3/4/26,PROD-SHIRT-WHITE-XL,North,Online,Shipped,261.74,6
+TXN-74098,Alvan Tantrum,atantrumf9@marketwatch.com,2536189119,4/12/26,PROD-SHIRT-BLUE-SM,West,Online,Shipped,,5
+TXN-08962,Cal Sterricker ,csterrickerfa@fema.gov,168.626.6689,5/23/26,PROD-HAT-BLUE-XL,North,Retail,Cancelled,433.61,1
+TXN-40340,jodi frowd,jfrowdfb@mozilla.org,597.254.7488,4/17/26,PROD-SHIRT-BLACK-XL,East,Retail,Cancelled,795.86,7
+TXN-08232,Nev Pafford,NPAFFORDFC@GNU.ORG,9397155070,4/10/26,PROD-SHOE-WHITE-LRG,North,Wholesale,Cancelled,824.82,2
+TXN-00303, Ameline Putten,,2992034397,3/25/26,PROD-BAG-RED-SM,,Wholesale,Shipped,477.73,1
+TXN-46234, Winny Bradley,wbradleyfe@cam.ac.uk,360-366-9143,4/11/26,PROD-SHIRT-RED-MED,South,Wholesale,Returned,490.73,3
+TXN-27792,,ERANSFIELDFF@AMAZON.CO.UK,(245) 541-2893,2/28/26,PROD-SHOE-BLUE-LRG,North,Retail,Shipped,216.66,3
+TXN-36903,Mitchel Cordelle,MCORDELLEFG@THEMEFOREST.NET,9194428454,5/10/26,PROD-BAG-RED-SM,East,Retail,Shipped,360.25,8
+TXN-71613,Tyson Gosnall ,TGOSNALLFH@SUN.COM,3976663255,4/15/26,PROD-SHIRT-RED-LRG,North,Wholesale,Pending,259.55,
+TXN-60552,,aglenisterfi@gnu.org,615-606-1074,5/20/26,PROD-HAT-BLUE-SM,South,Retail,,143.97,8
+TXN-47414, Timmy Elflain,TELFLAINFJ@TINYPIC.COM,413.124.3826,5/10/26,,East,Wholesale,Pending,270.55,8
+,bryana shedd ,BSHEDDFK@CSMONITOR.COM,303-518-1236,4/16/26,PROD-HAT-RED-MED,East,Retail,Shipped,163.51,3
+TXN-69632,Halimeda Hoyles,hhoylesfl@wix.com,,04/14/2026,,North,Online,Pending,263.44,6
+TXN-64373,Petra Boutellier ,PBOUTELLIERFM@SITEMETER.COM,337.890.6374,5/15/26,PROD-SHOE-RED-SM,South,Wholesale,Pending,513.4,5
+TXN-41366,,MPOCKEFN@ED.GOV,(820) 529-3544,4/8/26,,,Wholesale,Pending,745.01,1
+TXN-56364,Haven Verbrugghen,hverbrugghenfo@cornell.edu,354-116-5281,5/19/26,PROD-BAG-BLUE-LRG,,Retail,Shipped,804.44,1
+TXN-96262,corliss oldmeadow ,coldmeadowfp@nyu.edu,,3/10/26,PROD-HAT-WHITE-XL,West,Online,Pending,515.86,2
+TXN-51731,,nwillsfq@nationalgeographic.com,9173291586,3/3/26,PROD-HAT-WHITE-MED,North,Retail,Cancelled,249.01,2
+TXN-31784,Bryn McRobert,BMCROBERTFR@GOOGLE.FR,711-765-3561,3/5/26,PROD-BAG-BLUE-LRG,North,Wholesale,,257.2,
+,Ame Beaudry,abeaudryfs@amazon.de,,4/26/26,PROD-HAT-BLACK-XL,South,Wholesale,Returned,664.89,2
+TXN-61448, ,ecopseyft@purevolume.com,5059086981,5/11/26,PROD-HAT-BLACK-SM,East,Online,Shipped,146.64,6
+TXN-75614,Janeen Hopkins ,JHOPKINSFU@CMU.EDU,561-297-3491,3/28/26,PROD-SHOE-RED-SM,West,,Returned,796.64,6
+TXN-74773, ,TOREILLYFV@SBWIRE.COM,(338) 532-8178,04/09/2026,PROD-SHOE-RED-LRG,West,Online,Cancelled,140.11,6
+,Bernie Clissold,bclissoldfw@youtu.be,870.816.0666,5/6/26,PROD-SHOE-BLACK-SM,,Retail,,475.35,2
+TXN-75709,Corrinne Volet,cvoletfx@salon.com,248.146.8137,4/20/26,PROD-SHIRT-RED-MED,East,Online,Pending,216.68,2
+TXN-01379,Marj Hadcroft,mhadcroftfy@hao123.com,403-462-8706,3/19/26,PROD-SHIRT-BLUE-SM,South,Retail,Pending,674.91,7
+TXN-02532,Hector I'anson,HIANSONFZ@JIATHIS.COM,491-862-0493,5/8/26,PROD-SHIRT-BLACK-MED,North,Online,,132.07,6
+TXN-49143,Olenka Tottman,OTOTTMANG0@REUTERS.COM,897-501-8387,3/1/26,PROD-SHIRT-WHITE-SM,,Wholesale,Cancelled,489.51,3
+TXN-04108,Garreth Emeney ,gemeneyg1@over-blog.com,3641742960,,PROD-SHIRT-BLACK-LRG,,Wholesale,Returned,693.19,4
+TXN-42547, Caldwell Shugg,cshuggg2@devhub.com,3916742540,4/14/26,PROD-SHIRT-BLACK-SM,,Retail,Cancelled,615.93,6
+TXN-08020,Suellen Maffy,SMAFFYG3@PRNEWSWIRE.COM,924.602.1740,3/2/26,PROD-BAG-WHITE-MED,North,Online,Returned,601.75,2
+TXN-53702,Leonie Ruste,LRUSTEG4@GITHUB.COM,,4/23/26,PROD-BAG-BLACK-LRG,,,Pending,825.7,2
+,Berton Kidgell,bkidgellg5@fc2.com,9336581523,5/2/26,PROD-HAT-RED-XL,East,Online,Cancelled,522.32,1
+TXN-45471,Otes Huxster,ohuxsterg6@accuweather.com,(863) 886-6741,5/18/26,PROD-BAG-BLACK-XL,West,Retail,Cancelled,756.38,3
+TXN-36439,Davin Lanfere ,dlanfereg7@opera.com,4307543322,4/16/26,PROD-HAT-BLACK-XL,East,Online,Shipped,304.63,1
+TXN-75367,Moshe Fratczak,mfratczakg8@toplist.cz,942-492-7514,3/11/26,PROD-HAT-WHITE-SM,East,Retail,Cancelled,211.88,4
+TXN-62954,Shayla Nesbeth,snesbethg9@tumblr.com,139-833-8257,3/30/26,,South,Retail,Pending,451.97,3
+TXN-38109,Zora Longforth,,845-674-8541,3/14/26,PROD-SHOE-BLUE-LRG,West,Wholesale,,724.77,8
+TXN-25527,,BDEMCHENGB@SEATTLETIMES.COM,,5/26/26,PROD-SHOE-BLACK-SM,South,Retail,Shipped,34.55,3
+TXN-81229,Marj Hagerty,mhagertygc@dropbox.com,(505) 337-6965,4/27/26,PROD-SHIRT-BLACK-MED,West,Wholesale,Returned,553.99,7
+TXN-75270, Guglielmo Drohan,gdrohangd@cdbaby.com,,5/19/26,PROD-SHIRT-BLUE-SM,,Wholesale,Pending,774.6,6
+TXN-28434,Lotti Whitechurch,LWHITECHURCHGE@UNBLOG.FR,(380) 578-5030,3/11/26,PROD-HAT-BLUE-XL,East,Online,Shipped,560.82,2
+,Noni Rollins,,535-857-2029,3/13/26,PROD-SHOE-BLACK-SM,,Retail,Cancelled,619.75,7
+TXN-32945,Stefa O'Hollegan,sohollegangg@theatlantic.com,352-617-9843,3/24/26,PROD-SHIRT-WHITE-XL,West,Online,Pending,665.42,4
+TXN-01728,Morris Cartmale ,mcartmalegh@mail.ru,890-412-7563,,PROD-HAT-BLACK-XL,West,Online,Returned,429.12,8
+TXN-45726,Marrilee MacLise,mmaclisegi@is.gd,885-866-4517,5/25/26,PROD-BAG-BLACK-MED,West,Retail,Returned,147.47,
+TXN-86429, mattie fish,MFISHGJ@STATE.GOV,111.972.2846,3/28/26,PROD-HAT-RED-SM,East,Online,Cancelled,302.1,6
+TXN-37664,Hi Bucke,,1698306742,4/4/26,PROD-BAG-BLUE-XL,West,Retail,Cancelled,614.38,1
+TXN-04206, ,BWHAWELLGL@CMU.EDU,4029583437,05/13/2026,PROD-SHIRT-WHITE-SM,,,Returned,,4
+TXN-10378,adrian copeman,ACOPEMANGM@PRIVACY.GOV.AU,646-739-1845,5/27/26,PROD-SHIRT-WHITE-MED,South,Retail,Cancelled,179,8
+TXN-11565,Daven Jacobbe,,7326343101,4/13/26,PROD-SHOE-BLUE-SM,North,,Returned,819.83,7
+TXN-81405,Harv Ziem,hziemgo@edublogs.org,414.650.8991,4/20/26,PROD-BAG-RED-SM,East,Retail,Cancelled,74.7,1
+TXN-83500,Berrie Garley,bgarleygp@patch.com,(965) 985-6208,5/16/26,PROD-SHIRT-RED-SM,West,Retail,Cancelled,114.87,2
+TXN-16243,fernandina dunsmore ,fdunsmoregq@chronoengine.com,(446) 614-7558,4/27/26,PROD-HAT-RED-XL,East,Retail,Cancelled,542.27,8
+TXN-98036,Dodie Gruszka,DGRUSZKAGR@SALON.COM,232-761-2475,4/15/26,PROD-SHIRT-WHITE-LRG,East,Retail,Shipped,126.82,8
+TXN-12571,pierson burgiss,pburgissgs@hexun.com,(619) 634-9737,5/13/26,PROD-SHIRT-BLACK-XL,East,Wholesale,Returned,287.59,8
+TXN-77912, ,DPURCELLGT@ARTISTEER.COM,760.138.9980,4/19/26,PROD-SHIRT-WHITE-XL,South,Retail,Returned,667.26,1
+TXN-39723,Tresa Stiddard ,TSTIDDARDGU@BUSINESSINSIDER.COM,(801) 301-7117,4/10/26,PROD-BAG-WHITE-MED,North,Online,Shipped,104.54,2
+TXN-01155,Edouard Brickham,,8559665195,4/30/26,PROD-HAT-RED-LRG,,Wholesale,Returned,134.48,2
+TXN-82972,Correna Stayt ,CSTAYTGW@IBM.COM,,5/9/26,,South,Online,Pending,839,8
+TXN-71248,Isacco Dewfall,IDEWFALLGX@STATCOUNTER.COM,416.368.4401,4/12/26,PROD-SHIRT-BLUE-XL,West,Online,Returned,229.83,2
+TXN-59810,Hope Kubicek,hkubicekgy@utexas.edu,3699372111,3/15/26,PROD-BAG-RED-XL,North,Retail,Pending,556.27,4
+,Elga Loody,eloodygz@indiatimes.com,787-859-6151,5/11/26,PROD-HAT-WHITE-LRG,West,Wholesale,Cancelled,487.14,3
+TXN-40429,,AROBICHONH0@AUDA.ORG.AU,200-201-8827,3/28/26,,West,Online,Pending,350.13,
+TXN-02696,Onida Spong,OSPONGH1@TELEGRAPH.CO.UK,2801053029,3/9/26,PROD-SHIRT-BLACK-LRG,,Retail,Pending,570.14,
+TXN-22575, Morie Epple,meppleh2@seesaa.net,576-556-4886,4/17/26,PROD-HAT-BLACK-LRG,,Wholesale,Pending,433.69,3
+TXN-79675,Townsend Hurdiss,THURDISSH3@COM.COM,3797518698,4/28/26,PROD-SHIRT-BLUE-MED,North,Online,Shipped,552.47,
+TXN-20056,Clerkclaude Kernocke,CKERNOCKEH4@FLAVORS.ME,602.864.1551,3/23/26,PROD-HAT-BLUE-MED,West,Online,Cancelled,402.2,5
+TXN-61767,Rafe Beckett,RBECKETTH5@SFGATE.COM,7912706169,05/15/2026,PROD-SHIRT-BLUE-LRG,East,Retail,Shipped,585.46,2
+TXN-05066, Sadella Child,SCHILDH6@DYNDNS.ORG,598.817.0558,3/19/26,PROD-SHIRT-WHITE-LRG,North,Retail,Cancelled,,5
+TXN-43282,Leticia Hegdonne ,lhegdonneh7@geocities.jp,156-326-7001,,PROD-SHOE-BLACK-MED,East,Wholesale,Cancelled,287.68,5
+TXN-35544,Faulkner Penwright ,FPENWRIGHTH8@UMICH.EDU,(145) 252-1640,04/05/2026,PROD-HAT-BLACK-XL,East,Retail,Returned,133.01,2
+TXN-46906,,BCOLLERDH9@EVENTBRITE.COM,(646) 359-4126,04/20/2026,PROD-BAG-BLUE-XL,North,Wholesale,Shipped,735.42,8
+TXN-50672,Marcos Corner ,MCORNERHA@GOOGLE.CO.JP,6456446207,4/30/26,PROD-HAT-RED-SM,East,Online,Pending,,7
+TXN-47569,Em Nelthropp,enelthropphb@theglobeandmail.com,,4/22/26,PROD-SHIRT-RED-LRG,South,Wholesale,Cancelled,468.45,7
+TXN-88792,Teddy Busk ,tbuskhc@list-manage.com,1774049612,3/24/26,PROD-HAT-WHITE-LRG,East,Retail,Shipped,101.47,
+TXN-67329, Lissa Thomasset,LTHOMASSETHD@NSW.GOV.AU,108.531.3132,3/2/26,PROD-SHOE-BLACK-LRG,South,Wholesale,Cancelled,263.86,4
+,Revkah Placido,rplacidohe@kickstarter.com,4734536082,4/7/26,PROD-SHIRT-BLACK-LRG,,Wholesale,Pending,666.58,5
+TXN-52556,Thaddeus Sancroft,TSANCROFTHF@EXAMPLE.COM,,3/19/26,,West,Retail,Cancelled,337.48,
+TXN-26762,shep coultous ,SCOULTOUSHG@TRIPOD.COM,,,PROD-HAT-BLUE-XL,East,Online,Cancelled,82.02,6
+TXN-99532,Jobey Matula ,JMATULAHH@LIVEINTERNET.RU,(726) 666-5471,3/3/26,PROD-HAT-BLUE-XL,South,Online,Cancelled,805.04,4
+TXN-74140, ,fagneyhi@dagondesign.com,140-780-3677,4/19/26,PROD-SHOE-BLACK-LRG,North,Wholesale,Cancelled,567.42,4
+TXN-66440, Johan Kisbee,jkisbeehj@mtv.com,4194614150,3/17/26,PROD-BAG-WHITE-LRG,,Retail,Cancelled,847.36,5
+TXN-97234,Melinde Goody ,,9905177758,5/15/26,PROD-HAT-BLACK-LRG,North,Wholesale,Pending,135.07,6
+TXN-78206, Andrey Hewell,,726.308.7372,4/24/26,PROD-BAG-BLACK-XL,South,Retail,Cancelled,835.79,5
+TXN-68197,Candice Puttock,CPUTTOCKHM@ETSY.COM,(757) 132-3231,4/26/26,PROD-BAG-WHITE-MED,East,,Returned,556.24,6
+TXN-61944,Cristal Sudran,CSUDRANHN@AOL.COM,752-919-6287,4/7/26,PROD-SHIRT-BLUE-XL,,Retail,Returned,717.43,5
+TXN-23770,karlik ivankin,KIVANKINHO@GMPG.ORG,434-960-9945,4/21/26,PROD-BAG-RED-SM,West,Wholesale,Pending,593.13,2
+TXN-29985,Dyane Nansom,DNANSOMHP@DION.NE.JP,(356) 623-8134,3/25/26,PROD-BAG-RED-MED,South,Retail,Cancelled,83.35,8
+TXN-87931,Rogerio Kilgannon,RKILGANNONHQ@LIVEINTERNET.RU,481-953-6526,3/5/26,PROD-SHIRT-RED-SM,South,,Returned,,5
+TXN-30550,nolly kauschke,,538.779.7659,3/17/26,PROD-BAG-WHITE-LRG,North,Wholesale,Shipped,313.21,4
+,Philbert McGrirl,pmcgrirlhs@rambler.ru,1776487945,4/9/26,PROD-SHOE-WHITE-LRG,South,Online,Returned,303.02,6
+TXN-47589,Brandy Bennoe,BBENNOEHT@FLAVORS.ME,320-963-6042,5/19/26,PROD-BAG-RED-XL,North,Wholesale,Pending,602.53,
+TXN-48124,Stafani Gilburt,SGILBURTHU@OAKLEY.COM,672.699.7192,4/17/26,PROD-SHOE-BLUE-LRG,South,Wholesale,Cancelled,357.88,2
+TXN-31922,Daron Wileman ,DWILEMANHV@MIT.EDU,9942002702,4/22/26,PROD-BAG-RED-LRG,East,Retail,Returned,108.78,6
+TXN-90003,Worthy Wilkinson ,WWILKINSONHW@EXAMPLE.COM,9741180765,,PROD-SHOE-WHITE-SM,South,Retail,Shipped,284.19,8
+TXN-22833,Solly Infante,sinfantehx@wikia.com,944-612-3677,,PROD-HAT-BLACK-MED,East,Online,Shipped,813.25,
+TXN-17405, Oswell Dudmesh,odudmeshhy@e-recht24.de,,5/5/26,PROD-SHOE-WHITE-SM,,Retail,Shipped,230.83,7
+TXN-01636, Keen Allright,KALLRIGHTHZ@CLICKBANK.NET,2867585968,4/5/26,PROD-HAT-WHITE-XL,South,Online,Returned,537.78,4
+TXN-42997,armando butterfill,ABUTTERFILLI0@VINAORA.COM,(554) 904-2182,5/20/26,PROD-SHIRT-BLUE-SM,West,Wholesale,Returned,171.14,
+TXN-88396,Joanne Simnel,JSIMNELI1@BERKELEY.EDU,6827032187,4/3/26,PROD-SHOE-RED-XL,East,Online,Pending,313.35,8
+TXN-88262,Carlie Dmitrienko,CDMITRIENKOI2@FLICKR.COM,799.423.0743,4/16/26,PROD-SHIRT-BLACK-XL,East,Retail,Returned,,2
+TXN-61811,Fee Dady,FDADYI3@CLICKBANK.NET,(300) 743-3089,,PROD-HAT-BLACK-LRG,North,Retail,Shipped,27.09,4
+TXN-58674, ,CDANKOVI4@EVENTBRITE.COM,2161906896,5/16/26,PROD-BAG-BLUE-XL,East,Wholesale,Shipped,502.51,7
+TXN-58003,Quill Nickoll,,(930) 517-3223,4/8/26,PROD-SHOE-WHITE-SM,North,Wholesale,Returned,688.1,1
+,Rozanne Kirstein,RKIRSTEINI6@NBCNEWS.COM,(775) 363-0655,4/20/26,PROD-HAT-WHITE-MED,South,Online,Cancelled,485.97,
+TXN-58618,Chaim Yannoni,CYANNONII7@ISSUU.COM,(935) 884-4282,4/14/26,PROD-HAT-BLUE-XL,West,Online,Cancelled,772.67,4
+TXN-95580,Callean Ambrosi,CAMBROSII8@POSTEROUS.COM,(652) 469-8804,03/07/2026,,,Retail,Shipped,414.59,7
+TXN-48972,Greggory Cavy,GCAVYI9@ETSY.COM,583-969-1597,4/11/26,PROD-BAG-BLACK-MED,South,Wholesale,Pending,791.62,8
+TXN-54895,Noah Minor,nminoria@sciencedirect.com,7521471736,4/10/26,PROD-BAG-RED-SM,South,Retail,Shipped,,7
+TXN-85726,Lark Mettericke ,lmetterickeib@sina.com.cn,6957032876,4/12/26,PROD-SHIRT-RED-XL,North,Retail,Shipped,466.81,
+TXN-51481,Stormi Clearie ,sclearieic@aboutads.info,8488580832,3/24/26,PROD-SHIRT-BLUE-SM,East,Retail,Pending,231.38,2
+TXN-35016,Dana Bonick ,DBONICKID@SKYPE.COM,4583406622,5/13/26,PROD-SHOE-BLUE-SM,West,Online,Returned,456.65,6
+TXN-18205,Anette Eglaise ,AEGLAISEIE@LULU.COM,,2/28/26,PROD-SHOE-BLACK-MED,South,Wholesale,Cancelled,45.87,
+TXN-66140,Kerr Sinnock,KSINNOCKIF@MIT.EDU,253.689.0261,3/1/26,PROD-SHIRT-BLACK-SM,West,Online,Returned,457.86,3
+TXN-73736,Alta Cahan ,acahanig@un.org,3793930129,3/2/26,PROD-BAG-BLUE-LRG,,Online,Cancelled,623.31,
+TXN-75239,Sherm Sherrington ,ssherringtonih@theglobeandmail.com,621-499-4412,,PROD-HAT-BLACK-MED,,Retail,Pending,,5
+TXN-39547,emmi keedy,ekeedyii@accuweather.com,6864800674,5/8/26,PROD-HAT-WHITE-LRG,South,Wholesale,Shipped,468.23,4
+TXN-51632,Neall Minster,nminsterij@nih.gov,8409581744,5/1/26,PROD-SHIRT-BLACK-XL,West,Retail,Cancelled,360.89,2
+TXN-89295,Ruthie Radborn,rradbornik@domainmarket.com,,,PROD-SHIRT-BLUE-LRG,West,Online,Returned,303.24,3
+TXN-69294,Verile Mitchelson,vmitchelsonil@geocities.com,443.763.5136,3/25/26,PROD-SHOE-WHITE-LRG,South,Wholesale,Pending,110.34,
+TXN-47193,Holmes Youings,HYOUINGSIM@NBA.COM,693-720-9413,3/21/26,PROD-SHOE-BLUE-SM,South,Online,Cancelled,684.79,4
+TXN-55214,Vern Karpenko ,VKARPENKOIN@PAGINEGIALLE.IT,9131820507,5/20/26,PROD-SHOE-WHITE-XL,East,,Returned,654.33,2
+TXN-93860,Karry Pinnegar,KPINNEGARIO@OAKLEY.COM,(222) 870-4721,3/12/26,PROD-SHOE-RED-LRG,South,Retail,Cancelled,101.01,1
+TXN-65323, Davin Giraudou,dgiraudouip@shareasale.com,901.493.9923,3/26/26,,North,Retail,,382.65,
+TXN-40600,Rriocard Helkin ,rhelkiniq@paginegialle.it,710-122-8862,4/23/26,PROD-BAG-BLACK-SM,East,Retail,Pending,821.22,6
+TXN-90106, Howey Druery,hdrueryir@fc2.com,(122) 475-0087,3/18/26,PROD-SHOE-BLACK-SM,West,Retail,Returned,361.49,4
+TXN-39904,,drogansis@usnews.com,567-548-5923,,PROD-SHIRT-BLACK-SM,North,Retail,Pending,752.18,3
+TXN-45877,angus aspin,AASPINIT@WEATHER.COM,4301239331,4/3/26,PROD-BAG-BLUE-MED,North,Online,Pending,319.43,6
+TXN-88567,Jannelle Linforth,JLINFORTHIU@BRAVESITES.COM,4469116564,4/27/26,PROD-SHIRT-BLACK-MED,North,Wholesale,Cancelled,330.09,2
+TXN-62281,nancey comley,,417.532.4156,5/12/26,PROD-HAT-RED-MED,West,Retail,Returned,567.52,4
+TXN-72208,ingemar minihan,iminihaniw@cbc.ca,108.207.9804,04/22/2026,PROD-HAT-WHITE-XL,West,,Cancelled,,
+TXN-19181,Nickie Polkinghorne,NPOLKINGHORNEIX@IMDB.COM,296.657.9588,5/3/26,PROD-HAT-BLACK-MED,South,Retail,Cancelled,370.23,5
+TXN-41839,Debee Dufall,DDUFALLIY@CBC.CA,912-931-7123,05/08/2026,PROD-SHOE-BLUE-LRG,,Retail,Returned,508.87,8
+TXN-15936,Archy Clitheroe,ACLITHEROEIZ@PRIVACY.GOV.AU,945-826-7699,4/28/26,PROD-SHOE-BLACK-MED,North,Retail,Pending,74.96,8
+TXN-19333,Truda Richie,trichiej0@sun.com,4288915320,,PROD-SHIRT-RED-XL,West,Wholesale,Shipped,744.42,8
+TXN-33857, Kain Shine,kshinej1@eventbrite.com,(199) 204-0014,3/3/26,PROD-HAT-RED-SM,West,Wholesale,Cancelled,,6
+TXN-14917,,BCECCHETELLIJ2@SITEMETER.COM,(517) 959-7076,4/9/26,PROD-HAT-WHITE-SM,West,Wholesale,Shipped,780.03,2
+,Erminia Grafom,egrafomj3@sakura.ne.jp,571.238.5042,3/24/26,PROD-HAT-RED-LRG,West,Retail,Cancelled,146.61,5
+TXN-86709,Alexandre Losselyong,ALOSSELYONGJ4@BERKELEY.EDU,684.347.5200,3/18/26,PROD-SHOE-RED-LRG,,Wholesale,Shipped,539.65,4
+TXN-48744,Jermaine Rayment,jraymentj5@slideshare.net,9681442854,4/21/26,,South,Wholesale,Returned,157.36,6
+TXN-70762,Hedi Petracci,hpetraccij6@hibu.com,971.427.9265,5/27/26,PROD-HAT-RED-LRG,East,Retail,Shipped,443.34,3
+TXN-28709,Alysa Enderwick,AENDERWICKJ7@SOUNDCLOUD.COM,390.962.9700,3/24/26,PROD-SHOE-RED-LRG,East,Online,Shipped,726.37,1
+TXN-14201,Shalne Willcock ,SWILLCOCKJ8@ISSUU.COM,426.367.9447,5/8/26,PROD-SHIRT-WHITE-XL,North,Retail,Shipped,268.81,5
+TXN-52272,Craggie Entwisle,CENTWISLEJ9@AMAZON.DE,(329) 916-8227,5/7/26,PROD-HAT-BLUE-XL,East,Retail,Shipped,290.36,2
+TXN-61089,Winslow Boggs,wboggsja@ehow.com,540.628.7990,5/21/26,,,,Cancelled,630.01,1
+TXN-84425,Helena Slowgrave ,HSLOWGRAVEJB@IHG.COM,264.124.2156,3/19/26,PROD-BAG-BLUE-MED,,Online,Pending,639.26,4
+TXN-26434,Otis Karlsson ,okarlssonjc@go.com,(936) 715-4384,,PROD-BAG-BLUE-SM,,,Pending,512.95,8
+TXN-85809,Aubrey Fredi,AFREDIJD@GOOGLE.COM.HK,9218788019,05/10/2026,PROD-HAT-BLACK-LRG,North,Retail,Shipped,222.91,
+TXN-93212,,WBAGWELLJE@GOOGLE.IT,663.496.0911,5/7/26,PROD-SHOE-BLUE-LRG,North,Wholesale,Pending,,5
+TXN-70399,nicki whitehorn,NWHITEHORNJF@FREEWEBS.COM,9722075862,05/14/2026,PROD-SHOE-RED-SM,,Wholesale,Pending,,3
+TXN-22096,husein macfall,HMACFALLJG@DOT.GOV,,5/2/26,PROD-BAG-BLUE-LRG,West,Online,Cancelled,98.21,5
+TXN-98678,Iorgo Favel,ifaveljh@tiny.cc,9106455924,5/3/26,PROD-BAG-WHITE-LRG,South,Wholesale,Returned,92.71,3
+TXN-54390,morena orsi,MORSIJI@NASA.GOV,(353) 994-5668,5/26/26,PROD-BAG-BLUE-SM,North,Wholesale,Cancelled,257.49,
+TXN-90302,Mose Yuille,myuillejj@discuz.net,745-191-1039,5/10/26,PROD-HAT-WHITE-LRG,North,Retail,Pending,583.47,8
+TXN-44765,Aron Mc Caughan,AMCJK@STATE.GOV,3112488561,3/3/26,PROD-HAT-BLACK-SM,,Online,Returned,255.58,
+TXN-47403, ,SKAINESJL@CHINA.COM.CN,,3/7/26,PROD-BAG-BLUE-SM,,Retail,Shipped,583.37,7
+TXN-31730,Celene Rizzolo,CRIZZOLOJM@MAC.COM,864.450.5207,4/14/26,PROD-SHIRT-RED-LRG,North,Wholesale,Cancelled,235.06,4
+TXN-97595,Zelda Gronou,zgronoujn@msu.edu,369-638-4669,4/24/26,PROD-BAG-BLUE-LRG,North,Online,Cancelled,295.87,8
+,Marilee Rozalski ,mrozalskijo@va.gov,4974826184,5/7/26,PROD-BAG-RED-XL,East,Wholesale,Shipped,424.12,3
+TXN-82209,Tandi Duffie,tduffiejp@mac.com,(985) 249-6600,4/5/26,PROD-SHIRT-BLUE-LRG,,Online,Cancelled,49.17,5
+TXN-77042,kaiser earry,KEARRYJQ@HC360.COM,(723) 618-1606,3/31/26,PROD-SHIRT-RED-MED,,Retail,Cancelled,358.04,8
+TXN-05413,Harlen Pancost,HPANCOSTJR@BLOGS.COM,,5/15/26,PROD-HAT-BLACK-MED,East,Online,Cancelled,41.9,4
+TXN-25476,Simone Close ,SCLOSEJS@EBAY.COM,7195792578,5/10/26,PROD-SHIRT-RED-XL,South,Online,Shipped,776.89,1
+TXN-10924,Gearalt Thorius,gthoriusjt@shutterfly.com,(771) 337-3310,4/11/26,PROD-BAG-BLACK-MED,East,Wholesale,Returned,,
+TXN-35651,Gustavo Danat,gdanatju@godaddy.com,192-338-1920,3/1/26,PROD-SHIRT-BLUE-SM,North,Retail,,673.21,7
+TXN-96794,minda guiso,,1106862311,4/13/26,PROD-BAG-WHITE-XL,East,Retail,Shipped,413.58,2
+,Bessie Toomey,btoomeyjw@slideshare.net,710.440.0317,4/8/26,PROD-SHOE-WHITE-XL,North,Online,Cancelled,779.79,8
+TXN-56224,Ephrayim O'Halligan,eohalliganjx@mayoclinic.com,5621710783,03/05/2026,PROD-BAG-WHITE-SM,West,Wholesale,Pending,451.41,8
+TXN-62054,Mechelle Mattioli,MMATTIOLIJY@USNEWS.COM,595-282-6645,3/4/26,PROD-SHOE-WHITE-XL,South,Wholesale,Cancelled,475.53,5
+TXN-98317,Anselm Crellim,ACRELLIMJZ@SAKURA.NE.JP,3113913547,3/23/26,PROD-SHIRT-RED-LRG,South,Retail,Returned,113.61,3
+TXN-89926,heath gillatt,HGILLATTK0@OAIC.GOV.AU,383-523-4695,3/22/26,PROD-HAT-WHITE-XL,West,Online,Pending,594.57,3
+TXN-57922,Emma Jessope,ejessopek1@columbia.edu,252-760-5639,3/18/26,PROD-SHOE-WHITE-SM,North,Online,Pending,82.63,6
+TXN-41315, Arabele Revie,AREVIEK2@CANALBLOG.COM,704-724-4675,3/25/26,PROD-BAG-RED-LRG,East,Wholesale,Returned,613.52,2
+TXN-09919, Ruprecht Batchan,RBATCHANK3@SLATE.COM,402-639-3698,3/19/26,PROD-BAG-RED-SM,North,Wholesale,Pending,,8
+TXN-48593,Cassey Bindley ,CBINDLEYK4@WEATHER.COM,836.210.9944,3/29/26,PROD-SHOE-BLACK-MED,South,Retail,Cancelled,601.28,5
+TXN-05951,Jerry Balthasar,jbalthasark5@jimdo.com,369-300-4154,3/26/26,,,,Shipped,271.42,7
+TXN-88511,Fiorenze Haighton,FHAIGHTONK6@DISQUS.COM,7661614344,4/16/26,PROD-SHOE-RED-XL,West,Online,Pending,133.72,
+TXN-32650,edouard pilsbury ,epilsburyk7@nsw.gov.au,,4/16/26,PROD-SHIRT-RED-MED,,,Shipped,576.55,
+TXN-17359,Morgen Middlebrook,MMIDDLEBROOKK8@USA.GOV,(513) 929-6199,3/5/26,PROD-BAG-RED-LRG,North,Retail,Returned,609.33,8
+TXN-55626,,escannellk9@themeforest.net,7082874353,5/1/26,PROD-SHOE-BLUE-XL,North,,Cancelled,370.96,7
+TXN-81917,Mateo Blamphin,MBLAMPHINKA@FT.COM,910-772-0432,5/7/26,PROD-SHIRT-WHITE-SM,North,Online,Cancelled,115.22,5
+TXN-72010,Denys Bletsor,DBLETSORKB@YELLOWBOOK.COM,521.258.8778,3/15/26,PROD-HAT-WHITE-SM,North,Online,Shipped,687.87,1
+TXN-78938,,EDASSINDALEKC@EBAY.COM,206-790-9956,5/26/26,PROD-HAT-BLACK-SM,,Retail,Shipped,658.82,4
+TXN-86109,Adler Josselson,,(669) 187-9293,4/23/26,PROD-SHIRT-WHITE-XL,West,Wholesale,Pending,350.67,6
+TXN-32077, Lionel Bastie,LBASTIEKE@ELPAIS.COM,458.276.5079,,,East,Wholesale,,226.11,2
+TXN-91222, Nickey Lottrington,nlottringtonkf@printfriendly.com,2903093292,3/26/26,PROD-HAT-BLACK-XL,West,Retail,Cancelled,90.58,7
+,Shepherd Hinsche ,SHINSCHEKG@TECHCRUNCH.COM,648.319.4688,3/23/26,PROD-HAT-BLUE-SM,North,Online,Returned,381.68,6
+TXN-05298,,FSIMISTERKH@EBAY.CO.UK,269.746.0151,4/11/26,,West,Retail,Cancelled,572.28,1
+TXN-51123,Nickolas Wyss,nwysski@ftc.gov,250.971.0845,4/23/26,PROD-HAT-RED-MED,East,Wholesale,Shipped,137.27,
+TXN-57154,Ag Mirrlees ,AMIRRLEESKJ@ALTERVISTA.ORG,990-504-1785,3/5/26,PROD-BAG-BLUE-MED,East,Online,Shipped,804.08,
+,Jordon Jablonski,jjablonskikk@soup.io,7039739541,3/17/26,PROD-HAT-RED-LRG,South,Wholesale,Shipped,247.38,3
+TXN-81513,Irwinn Goater,igoaterkl@skype.com,548.687.1776,3/31/26,PROD-SHIRT-BLUE-LRG,North,Retail,Cancelled,790.66,4
+TXN-88581,Odette Mackilpatrick ,OMACKILPATRICKKM@OAIC.GOV.AU,5391715471,4/9/26,PROD-SHOE-WHITE-LRG,North,Online,Shipped,533.97,5
+,Lindy Yurevich,LYUREVICHKN@SHUTTERFLY.COM,868-315-3732,3/1/26,PROD-BAG-WHITE-SM,North,,Returned,450.64,
+TXN-10711, Lorenzo Pillman,lpillmanko@twitter.com,459-401-7954,4/28/26,PROD-HAT-BLACK-XL,North,Wholesale,Returned,771.34,8
+,Sarge Casier,SCASIERKP@STUMBLEUPON.COM,(301) 887-8971,5/26/26,PROD-SHIRT-WHITE-MED,East,,Cancelled,348.17,5
+TXN-02609,Shelagh Jerrems ,SJERREMSKQ@WIKISPACES.COM,(974) 325-6240,5/18/26,PROD-SHOE-RED-LRG,West,Online,Returned,340.4,7
+,Becka Allsworth,BALLSWORTHKR@ACCUWEATHER.COM,(686) 145-7427,4/24/26,PROD-HAT-WHITE-SM,North,Wholesale,Pending,648.25,
+TXN-65766,Nerita Jobling,njoblingks@tuttocitta.it,858.493.1776,5/1/26,PROD-HAT-WHITE-MED,West,Wholesale,Returned,551.4,5
+TXN-94855,tasha fiddian,TFIDDIANKT@IHG.COM,(547) 730-5680,4/2/26,PROD-BAG-BLACK-XL,North,Online,Cancelled,849.9,1
+TXN-67167,guglielmo o'corren,gocorrenku@hubpages.com,9492524583,3/29/26,PROD-HAT-RED-MED,North,Wholesale,Pending,33.45,7
+TXN-76823,Benji Lafond,blafondkv@howstuffworks.com,(193) 343-0782,5/26/26,PROD-SHIRT-WHITE-XL,North,Retail,Pending,334.77,8
+TXN-63745, katrinka tilson,KTILSONKW@ADOBE.COM,7362632799,4/6/26,PROD-BAG-WHITE-MED,South,Wholesale,Cancelled,124.81,
+TXN-18067,gradey tarrier,gtarrierkx@blinklist.com,368-713-5687,4/15/26,,,Wholesale,Pending,782,
+TXN-57101,,,9116152995,5/26/26,PROD-SHIRT-RED-MED,West,Retail,Pending,150.32,1
+TXN-41346,bowie cocci,bcoccikz@discuz.net,(398) 993-0562,5/9/26,PROD-HAT-BLACK-XL,West,Retail,Shipped,173.36,4
+TXN-50907,Donnie Simnett,dsimnettl0@gravatar.com,250-102-4126,,PROD-SHOE-RED-LRG,South,Online,Shipped,375.45,8
+TXN-04951,Gunar Addenbrooke,gaddenbrookel1@joomla.org,(718) 449-9939,3/1/26,PROD-HAT-RED-LRG,West,Online,Returned,368.16,2
+TXN-71862,Bevan Pervew ,bpervewl2@webs.com,(482) 106-3096,5/11/26,PROD-BAG-BLUE-XL,East,Online,Returned,239.15,2
+TXN-53072,Glenn Hastler ,GHASTLERL3@EEPURL.COM,809.463.8405,4/26/26,,South,,,,2
+TXN-44545,Caye Rickeard,crickeardl4@ibm.com,428-962-1361,,PROD-HAT-BLUE-XL,East,Wholesale,Returned,73.16,7
+TXN-31783,Margareta Francais,mfrancaisl5@cnn.com,(786) 242-2356,5/8/26,PROD-HAT-BLACK-LRG,South,Retail,Shipped,775.97,8
+TXN-61761,merci saffen,msaffenl6@utexas.edu,8727082819,4/7/26,PROD-HAT-RED-MED,East,Online,Pending,753.67,5
+TXN-92561,Emmy Brabyn,ebrabynl7@cdc.gov,396-617-7184,4/29/26,,,Retail,Shipped,59.16,1
+TXN-19485,Danica Blasius,dblasiusl8@a8.net,241.894.4601,3/30/26,PROD-SHOE-RED-MED,North,Wholesale,Cancelled,362.35,6
+TXN-07448,Leigh Attock,LATTOCKL9@JAVA.COM,(316) 434-9585,04/28/2026,PROD-HAT-BLUE-LRG,South,Online,Pending,,4
+TXN-56966,Vitoria Jerrams,vjerramsla@prnewswire.com,(794) 588-6871,5/6/26,PROD-BAG-BLUE-LRG,North,Wholesale,Shipped,289.01,3
+TXN-31217, brigit hoffmann,bhoffmannlb@istockphoto.com,5206364239,5/4/26,PROD-SHOE-BLUE-SM,East,Wholesale,Shipped,645.05,8
+TXN-76056,Adlai Martelet,AMARTELETLC@LATIMES.COM,(790) 230-2254,,PROD-BAG-RED-MED,West,,Returned,797.55,3
+TXN-29806,Arty Gloucester,AGLOUCESTERLD@GOOGLE.IT,3125422048,4/26/26,PROD-SHIRT-RED-LRG,South,,Shipped,799.72,7
+TXN-06737,Hirsch Amaya ,HAMAYALE@GOOGLE.RU,(892) 790-9922,5/15/26,PROD-HAT-RED-XL,South,Online,Pending,524.87,6
+TXN-46471,Bobina Liveley ,bliveleylf@home.pl,733.152.9729,,PROD-SHIRT-BLUE-XL,South,Online,Cancelled,526.55,3
+TXN-29789, Georgianna Fessions,gfessionslg@cmu.edu,(832) 767-1619,3/10/26,PROD-HAT-BLACK-LRG,North,Wholesale,Shipped,376.37,1
+TXN-33106,Phyllida Manley,PMANLEYLH@MIITBEIAN.GOV.CN,(172) 664-8195,3/16/26,PROD-HAT-RED-LRG,North,Online,Cancelled,234.32,5
+TXN-42398,Rosalynd Crapper,rcrapperli@clickbank.net,318-358-5670,4/17/26,,North,Retail,Shipped,769.77,6
+TXN-50854,marin o'brian,MOBRIANLJ@EBAY.COM,118-225-1355,4/29/26,PROD-BAG-BLUE-XL,South,Online,Pending,,8
+TXN-65375,Mort Astlatt,MASTLATTLK@NHS.UK,(612) 656-4311,5/19/26,PROD-HAT-WHITE-LRG,North,Wholesale,Shipped,428.29,5
+TXN-38696,,rwatkissll@geocities.jp,674-322-1231,3/15/26,,North,,Shipped,271.84,4
+TXN-89683,Brannon Headrick,BHEADRICKLM@TECHCRUNCH.COM,214.398.2204,5/18/26,PROD-BAG-BLUE-SM,North,Wholesale,Shipped,808.97,1
+TXN-95767,Conny Mooney ,CMOONEYLN@SPHINN.COM,(569) 826-1175,4/18/26,PROD-BAG-BLUE-SM,North,Online,Cancelled,477.99,8
+TXN-61431,Trudie Vanetti,tvanettilo@samsung.com,(717) 637-7069,3/5/26,PROD-SHIRT-BLACK-LRG,South,Online,Shipped,,3
+TXN-88897,Emmett Christy,ECHRISTYLP@WP.COM,163.856.7496,4/6/26,PROD-HAT-BLUE-LRG,,Online,Returned,695.89,6
+TXN-44826,lira van der weedenburg,lvanlq@amazon.com,(637) 341-3262,4/6/26,PROD-SHIRT-BLACK-XL,North,Online,Shipped,593.2,5
+TXN-73532, Gill Roantree,groantreelr@wix.com,(269) 232-6277,5/18/26,PROD-SHOE-RED-SM,North,Online,,204.76,1
+TXN-52841,Cordy Kearle ,ckearlels@upenn.edu,672.836.7088,3/27/26,PROD-SHIRT-WHITE-SM,,Online,Pending,371.34,5
+TXN-62425,Blayne Trodd,BTRODDLT@GLOBO.COM,3603269311,3/17/26,PROD-HAT-WHITE-SM,North,Online,,390,5
+TXN-37331,Keary O'Kieran,KOKIERANLU@51.LA,(736) 343-8028,4/14/26,PROD-SHIRT-WHITE-LRG,South,Wholesale,Shipped,250.48,5
+TXN-06759,Jeno Craggs,JCRAGGSLV@UIUC.EDU,3058255008,5/16/26,PROD-SHIRT-RED-XL,East,Wholesale,Cancelled,228.33,7
+TXN-70433,Barclay Fawkes,bfawkeslw@apple.com,,3/14/26,PROD-SHIRT-WHITE-MED,North,Wholesale,Shipped,717.71,4
+TXN-31619,Erna Trimme,etrimmelx@list-manage.com,(321) 114-2314,5/3/26,PROD-SHOE-BLACK-XL,North,Retail,Shipped,,2
+TXN-65853,Goober Tudor,gtudorly@vkontakte.ru,954.750.1109,5/5/26,PROD-BAG-BLACK-MED,South,Online,Shipped,,5
+TXN-56772,Aeriell Yakobovitz,ayakobovitzlz@si.edu,189.236.2239,4/24/26,,South,Online,Shipped,414.14,7
+, Lion Barke,LBARKEM0@WHO.INT,2579289028,,PROD-BAG-BLACK-SM,West,Online,Pending,501.15,1
+,Rutherford Verni,RVERNIM1@SOHU.COM,5783438906,5/8/26,PROD-SHOE-BLACK-XL,,Retail,Cancelled,146.69,2
+TXN-54621,Bert Tallon ,BTALLONM2@CISCO.COM,835-345-6997,5/26/26,PROD-SHIRT-BLACK-XL,North,Online,Pending,238.03,8
+TXN-75108,terencio kynd,tkyndm3@chron.com,,5/15/26,,,Wholesale,Pending,689,7
+TXN-51765,Hana Smallman,,354.762.6942,5/1/26,PROD-SHIRT-BLACK-MED,South,Retail,Returned,137.66,3
+TXN-19905,Flory Larose,FLAROSEM5@GOOGLE.COM.HK,4365723407,3/24/26,PROD-SHIRT-WHITE-XL,North,Online,Cancelled,244.82,8
+TXN-29635,Zebedee Penquet,zpenquetm6@facebook.com,499.156.5062,,PROD-SHIRT-BLUE-XL,,Online,Returned,496.21,4
+TXN-72206,Andre Millions,,(238) 316-6884,5/5/26,PROD-HAT-RED-SM,East,Retail,Pending,821.63,5
+TXN-70220,Gerda Cowden,GCOWDENM8@SLATE.COM,837.771.6917,3/27/26,,South,Wholesale,Pending,145.6,1
+TXN-31565,Kaine Ernshaw,KERNSHAWM9@OPENSOURCE.ORG,718.800.6134,3/27/26,PROD-HAT-BLUE-SM,South,Wholesale,Shipped,426.5,
+,stefano chomiszewski,SCHOMISZEWSKIMA@EXBLOG.JP,,3/6/26,PROD-SHOE-BLUE-XL,West,Online,Returned,835.25,
+,burch checkley,bcheckleymb@ihg.com,342-742-0599,5/15/26,PROD-SHIRT-RED-LRG,South,Online,Returned,429.92,3
+TXN-50596, Daffy Peerless,DPEERLESSMC@UCOZ.COM,831-125-7965,3/4/26,PROD-HAT-BLUE-LRG,East,Wholesale,Returned,134.89,7
+TXN-96641,Dione Caines,,336.140.6136,5/7/26,PROD-BAG-BLACK-LRG,West,Online,Pending,813.66,7
+,Willabella Hurleston,WHURLESTONME@NOAA.GOV,4648889472,3/26/26,PROD-SHOE-BLUE-LRG,West,Retail,,403.12,4
+TXN-45873,Davey Stiegar ,DSTIEGARMF@WHO.INT,804-759-1700,3/1/26,PROD-SHOE-RED-SM,West,Online,Shipped,713.68,7
+TXN-80136,Bernetta Stemp,bstempmg@php.net,(605) 947-0720,4/27/26,PROD-BAG-BLACK-XL,West,Wholesale,Shipped,828.05,3
+TXN-09539,Debor Nassy,DNASSYMH@PLALA.OR.JP,(464) 692-1302,5/27/26,PROD-SHOE-RED-XL,East,Wholesale,Cancelled,,
+TXN-88560,Shaun Labb,slabbmi@fema.gov,(186) 574-2285,5/22/26,PROD-SHIRT-RED-MED,East,Retail,Shipped,127.5,5
+TXN-28054,Susy Childers,schildersmj@naver.com,264-698-7477,3/3/26,PROD-BAG-BLUE-LRG,East,Retail,Pending,89.3,4
+,Gwenny Rihanek ,GRIHANEKMK@EHOW.COM,133.553.8756,3/30/26,PROD-HAT-RED-SM,East,Online,,481.43,5
+TXN-29535,Mord Towey,mtoweyml@microsoft.com,1503946415,,PROD-BAG-BLUE-SM,West,Retail,,653.64,1
+TXN-41060,Lindie Duferie,LDUFERIEMM@1UND1.DE,2407466882,5/20/26,PROD-SHIRT-WHITE-XL,South,Retail,Shipped,,6
+TXN-10337,Shayla Hakes,shakesmn@harvard.edu,952.396.9308,4/29/26,PROD-BAG-BLACK-SM,,Wholesale,Shipped,450.34,7
+TXN-59453,aloise ivashchenko ,aivashchenkomo@shareasale.com,8552213191,5/11/26,PROD-SHOE-BLACK-SM,South,Wholesale,Cancelled,31.52,7
+TXN-54704,Tabitha Simkiss,TSIMKISSMP@OW.LY,1264288033,3/10/26,PROD-BAG-BLACK-SM,West,Wholesale,Shipped,,
+TXN-75508,,,,4/7/26,PROD-SHOE-BLUE-LRG,North,Online,Cancelled,318.86,2
+TXN-97881, Natale McGinnell,nmcginnellmr@privacy.gov.au,(907) 486-0655,4/1/26,PROD-HAT-BLACK-SM,West,Wholesale,Returned,633.74,2
+TXN-80109,Dayle Jobey,,(264) 668-0528,5/9/26,PROD-SHIRT-WHITE-SM,West,Wholesale,Pending,355.15,4
+TXN-83048,Eward Naylor,ENAYLORMT@USATODAY.COM,992.127.4700,4/7/26,PROD-HAT-RED-SM,South,Wholesale,,213.63,8
+TXN-64180,Christyna McMeekan,cmcmeekanmu@china.com.cn,344.783.6818,4/28/26,PROD-HAT-BLACK-XL,South,Retail,Pending,,1
+TXN-47441,Agneta Ever,aevermv@t.co,4408134853,5/10/26,PROD-HAT-BLUE-MED,West,Retail,Shipped,143.69,5
+TXN-89659, ,BFIDOMW@PEOPLE.COM.CN,709.195.5915,3/5/26,PROD-SHIRT-WHITE-SM,North,Online,Returned,824.44,
+TXN-42336, Pate Hains,PHAINSMX@TRIPADVISOR.COM,(266) 690-7187,,PROD-BAG-BLUE-XL,East,Wholesale,Pending,26.3,8
+TXN-46930,Valencia Slane,vslanemy@tuttocitta.it,(252) 102-4567,4/6/26,PROD-BAG-WHITE-SM,South,Wholesale,Cancelled,492.35,8
+TXN-82321,,ewhodcoatmz@ucsd.edu,347.168.0897,3/12/26,PROD-SHIRT-BLACK-XL,North,Retail,Returned,34.25,5
+TXN-20533, Natassia Brayn,nbraynn0@dell.com,4785320941,4/21/26,PROD-HAT-WHITE-XL,South,Wholesale,Shipped,178.32,4
+TXN-70330,Dorotea Lawden,DLAWDENN1@FREEWEBS.COM,573-164-3673,4/27/26,PROD-HAT-WHITE-LRG,South,Online,Cancelled,,6
+TXN-76382,Micheal Wilcott,MWILCOTTN2@COLUMBIA.EDU,772.712.2324,,PROD-HAT-WHITE-MED,South,Retail,Cancelled,831.04,
+TXN-82165,Isaac Burkill,IBURKILLN3@REFERENCE.COM,(138) 989-5484,4/15/26,PROD-SHOE-BLUE-LRG,South,Wholesale,Pending,,
+TXN-48098,Korrie Boller,KBOLLERN4@GOOGLE.CO.JP,,3/8/26,PROD-SHIRT-WHITE-XL,,Wholesale,Shipped,593.86,2
+TXN-51976,,,(209) 183-1278,4/11/26,PROD-SHOE-WHITE-LRG,North,Retail,Cancelled,,1
+TXN-91272,Pammie Gehrts,PGEHRTSN6@MEDIAFIRE.COM,194-329-2747,3/11/26,PROD-SHOE-BLUE-SM,East,Retail,Cancelled,839.11,3
+TXN-96999,Eada Resun,eresunn7@cyberchimps.com,914.936.8258,5/23/26,PROD-HAT-BLACK-SM,West,Retail,Returned,523.81,3
+TXN-17746,archibald stone fewings,astonen8@bbc.co.uk,,3/8/26,PROD-BAG-BLACK-SM,East,Online,Returned,,7
+,Sondra MacClancey,smacclanceyn9@japanpost.jp,,3/6/26,,West,Online,Shipped,69.37,
+,Fannie Ciccotto,fciccottona@cpanel.net,(716) 379-9163,4/6/26,PROD-SHOE-RED-LRG,,Retail,Shipped,260.14,3
+TXN-89712,Locke Cotmore,lcotmorenb@odnoklassniki.ru,1192376195,4/2/26,PROD-SHIRT-RED-MED,East,Retail,Cancelled,31.93,5
+TXN-01263,Carie Fozzard,cfozzardnc@discovery.com,646.144.2164,05/22/2026,PROD-SHIRT-BLACK-SM,South,Online,Pending,256.15,7
+TXN-34125,Heda Parradine,hparradinend@whitehouse.gov,2861006512,3/15/26,PROD-BAG-BLACK-XL,North,Retail,,225.08,2
+TXN-32857,Berry Nockells,bnockellsne@hao123.com,802.944.5284,4/19/26,PROD-SHOE-BLACK-MED,South,Retail,Returned,378.6,
+TXN-22634, Dunstan Aimson,DAIMSONNF@TUMBLR.COM,(593) 596-4570,4/20/26,PROD-SHOE-WHITE-XL,,,Returned,247.77,4
+TXN-72619,Lilas Pagon,lpagonng@salon.com,(766) 975-3485,3/23/26,PROD-SHOE-WHITE-LRG,West,Online,Pending,187.52,1
+TXN-56912,Karyl Ilbert,kilbertnh@so-net.ne.jp,(954) 930-2319,04/15/2026,PROD-BAG-WHITE-XL,South,Retail,Cancelled,801,3
+TXN-79600,Valentine Blackaby,VBLACKABYNI@EXAMINER.COM,,5/24/26,PROD-HAT-BLACK-SM,East,Retail,Pending,228.14,7
+TXN-71068,Sande Stallworth ,sstallworthnj@businessweek.com,(219) 281-8393,4/1/26,PROD-HAT-WHITE-MED,East,Wholesale,Shipped,33.34,5
+TXN-49348,Emalia Milmo ,EMILMONK@STATE.TX.US,3136857715,4/20/26,PROD-HAT-BLACK-SM,North,Retail,Pending,695.2,5
+TXN-57733,,FODOHERTYNL@CARGOCOLLECTIVE.COM,180.948.4626,4/4/26,PROD-SHIRT-WHITE-MED,North,Wholesale,Returned,355.2,5
+TXN-05601,,FCARDALLNM@YELLOWBOOK.COM,(551) 849-0917,5/27/26,PROD-SHOE-WHITE-SM,East,Online,Returned,521.48,7
+TXN-56113,Alleyn Cotherill,,194-235-0624,3/18/26,PROD-SHIRT-WHITE-MED,West,Retail,Cancelled,186.34,2
+TXN-48725,Erminia Cotherill,ECOTHERILLNO@SPOTIFY.COM,888-893-1368,3/23/26,PROD-BAG-RED-LRG,East,Retail,Pending,,6
+TXN-25969,Drona Dilworth,ddilworthnp@liveinternet.ru,698-734-8134,3/21/26,PROD-SHIRT-RED-LRG,North,,Cancelled,635.3,
+TXN-64849,Shaylah Beagan,sbeagannq@netscape.com,,4/7/26,PROD-BAG-BLUE-XL,,,Cancelled,487.82,5
+TXN-04714, Almeda Voisey,,712.787.6583,03/20/2026,PROD-HAT-WHITE-LRG,North,Online,Pending,186.42,4
+TXN-31255,Laird Cockrill,lcockrillns@yellowpages.com,263-127-9780,3/21/26,PROD-HAT-RED-LRG,East,,Returned,85.9,
+TXN-81375,Tull Golda ,tgoldant@icq.com,(829) 408-5682,05/10/2026,PROD-HAT-RED-SM,East,Retail,Returned,783.96,
+TXN-11019,Norah Wymer,nwymernu@miitbeian.gov.cn,935.812.2865,5/12/26,PROD-SHOE-WHITE-LRG,North,Retail,Shipped,718.37,3
+TXN-41658,francois stubbings ,fstubbingsnv@shutterfly.com,868.294.8613,5/25/26,PROD-HAT-RED-LRG,North,Retail,Cancelled,631.13,6
+TXN-33079,,DMARTSCHKENW@NIH.GOV,6801317936,4/30/26,,North,Retail,Returned,304.59,8
+TXN-44686, Vivyanne Hillitt,vhillittnx@ucsd.edu,(635) 782-1773,4/24/26,PROD-BAG-WHITE-XL,West,Retail,Cancelled,262.99,8
+TXN-92951,Elliot Bax ,EBAXNY@AOL.COM,638-499-2696,5/16/26,PROD-SHIRT-BLUE-MED,South,Online,Cancelled,601.25,6
+TXN-66613,Ernestus Warmisham,EWARMISHAMNZ@VA.GOV,8783959649,5/4/26,PROD-BAG-BLUE-MED,South,Wholesale,Shipped,,8
+TXN-85800,Toby Jordine,TJORDINEO0@ZDNET.COM,2749735414,3/1/26,PROD-SHOE-BLACK-SM,,Retail,Shipped,837.71,6
+TXN-68988,ludwig labarre ,LLABARREO1@PCWORLD.COM,782-347-3111,4/28/26,PROD-SHIRT-RED-LRG,South,Retail,Shipped,328.95,5
+TXN-65192,Ginelle Bordone,GBORDONEO2@TRELLIAN.COM,(602) 560-6164,5/9/26,PROD-BAG-BLUE-SM,West,Online,,277.59,6
+TXN-66497,wilmer marrian ,WMARRIANO3@ACCUWEATHER.COM,918.410.4844,3/8/26,PROD-HAT-BLUE-MED,North,Online,,422.59,
+TXN-07097, ,SMCGOURTYO4@DRUPAL.ORG,1538531866,4/22/26,PROD-SHOE-BLACK-MED,North,Online,Cancelled,193.35,3
+TXN-40769,Graham Scotchmer,GSCOTCHMERO5@FLAVORS.ME,(118) 920-3859,4/3/26,PROD-SHIRT-BLACK-SM,North,Retail,Shipped,256.65,7
+TXN-40889,Melissa Jeske,mjeskeo6@arizona.edu,(254) 883-6932,5/3/26,PROD-BAG-BLACK-XL,West,Retail,Returned,114.77,3
+TXN-09827,Trumaine Eusden,,(998) 638-8506,5/18/26,PROD-BAG-BLUE-XL,East,Wholesale,Returned,786.49,5
+TXN-18355,Olivette Uzelli,ouzellio8@cocolog-nifty.com,799-401-3364,4/5/26,PROD-HAT-BLUE-LRG,East,Wholesale,Returned,469.87,2
+TXN-17168, ,dmunningso9@youtube.com,465.165.4843,4/29/26,PROD-SHOE-BLUE-MED,East,Wholesale,Cancelled,75.62,3
+TXN-66262,Jaimie Cops ,JCOPSOA@VA.GOV,571.130.7690,3/23/26,PROD-HAT-BLACK-MED,North,Retail,Cancelled,840.39,8
+TXN-47164,Birdie Hexham,BHEXHAMOB@VIRGINIA.EDU,(421) 447-5350,4/14/26,PROD-BAG-BLACK-LRG,,Wholesale,Shipped,172.92,6
+TXN-64786,Randolph Lezemore,RLEZEMOREOC@HUBPAGES.COM,(551) 857-8364,5/26/26,PROD-SHIRT-RED-MED,East,Retail,Returned,595.76,2
+TXN-73512, Wynny Tift,wtiftod@digg.com,354-944-6190,4/2/26,PROD-HAT-WHITE-XL,North,Online,Shipped,247.41,1
+TXN-20313,,GMACCARTNEYOE@ABC.NET.AU,(531) 191-4402,3/29/26,PROD-BAG-WHITE-XL,East,Wholesale,,542.55,2
+TXN-61600,Harri Ody ,HODYOF@OW.LY,319-883-3932,5/4/26,PROD-HAT-WHITE-LRG,East,Online,Shipped,594.2,4
+TXN-14189,Domingo Nickoles,DNICKOLESOG@DELL.COM,(191) 731-3239,5/16/26,PROD-SHIRT-BLACK-SM,East,Wholesale,Cancelled,242.37,3
+TXN-51119,,CSOWRAYOH@163.COM,375-826-3723,3/30/26,PROD-SHOE-WHITE-LRG,South,Online,Shipped,49.81,3
+TXN-21448,Cooper Patty,cpattyoi@princeton.edu,733-862-5979,4/23/26,PROD-SHIRT-RED-SM,South,Online,Shipped,191.05,2
+TXN-68956, ,rvarneyoj@indiatimes.com,(609) 229-6960,5/9/26,,South,Online,Returned,546.31,1
+TXN-45454, Cyril De Bernardis,cdeok@parallels.com,413.217.4858,4/28/26,PROD-HAT-RED-XL,West,Online,Pending,224.25,1
+TXN-51267, ,ffilgateol@chicagotribune.com,444.732.5835,3/30/26,PROD-SHOE-RED-SM,South,Online,Pending,494.9,
+TXN-56622,Kellia Trayling,ktraylingom@discovery.com,3584581545,5/8/26,PROD-SHOE-WHITE-XL,West,Online,Shipped,390.2,
+TXN-49851,Vere Budnik ,vbudnikon@guardian.co.uk,376-194-9385,4/15/26,PROD-SHIRT-WHITE-MED,South,Online,Returned,118.67,7
+TXN-17695, Richie Finicj,rfinicjoo@forbes.com,7939750492,5/11/26,PROD-BAG-WHITE-MED,West,Retail,Pending,391.63,
+TXN-19149, ,TYEGORCHENKOVOP@SPRINGER.COM,(264) 414-1757,4/23/26,PROD-SHOE-BLUE-MED,,Wholesale,Pending,391.58,6
+TXN-21662,,rlegriceoq@nps.gov,813.556.5281,3/8/26,PROD-SHOE-WHITE-MED,East,Wholesale,Cancelled,471.65,2
+TXN-15605,Rafferty Adriaan,radriaanor@foxnews.com,7073034382,4/26/26,PROD-SHOE-BLACK-MED,East,Retail,Shipped,508.03,5
+TXN-53924,Cletis McKeon,CMCKEONOS@WORDPRESS.COM,499.305.6717,3/1/26,PROD-HAT-RED-SM,South,Wholesale,Cancelled,417.57,2
+TXN-95080,Colas Livoir,CLIVOIROT@BLOGLINES.COM,178-137-6794,4/4/26,PROD-HAT-BLUE-MED,West,Wholesale,Shipped,,3
+TXN-10381,Oren Crosser,OCROSSEROU@UTEXAS.EDU,424.258.5748,5/20/26,PROD-SHOE-WHITE-XL,West,Wholesale,Pending,600.8,8
+TXN-63785, ,blacknerov@tumblr.com,(315) 971-2482,5/5/26,PROD-SHOE-BLACK-LRG,South,Retail,Returned,149.68,8
+TXN-31684,david radbone,,718.700.7382,4/21/26,PROD-SHOE-BLUE-SM,North,Wholesale,Pending,534.88,2
+TXN-84769,vasilis valett ,vvalettox@who.int,,,PROD-HAT-RED-MED,South,Wholesale,Cancelled,177.09,6
+TXN-58773,Heath Dart ,HDARTOY@EXBLOG.JP,110.261.6804,04/29/2026,PROD-SHOE-WHITE-LRG,South,Wholesale,Pending,447.12,4
+TXN-06185,Jarrid Swanwick,JSWANWICKOZ@FT.COM,2732398697,5/21/26,PROD-SHIRT-BLUE-MED,South,Online,Pending,403.89,6
+TXN-39535,Fanchon Cashin,fcashinp0@npr.org,,4/11/26,PROD-BAG-BLACK-MED,,Wholesale,Pending,,6
+TXN-44940,Worthington Wedge,wwedgep1@unicef.org,748-892-3188,05/17/2026,PROD-SHIRT-BLACK-XL,West,,Pending,262.18,1
+TXN-25623,Howie Gerger,hgergerp2@marriott.com,7906737447,3/18/26,PROD-SHIRT-BLACK-MED,North,,Cancelled,,8
+TXN-40368,Yulma Tamblyn,ytamblynp3@marriott.com,,3/13/26,PROD-BAG-WHITE-LRG,South,Retail,Shipped,88.15,8
+TXN-09169,Kipper Bottini,kbottinip4@patch.com,3011428241,3/28/26,PROD-SHOE-RED-MED,North,Wholesale,Returned,421.91,5
+TXN-17525,Collin Phettiplace,cphettiplacep5@elpais.com,7434054313,3/31/26,PROD-HAT-BLUE-XL,East,Online,Pending,,4
+TXN-19983, Bondie Tarzey,BTARZEYP6@IS.GD,(678) 444-1400,05/06/2026,PROD-SHIRT-WHITE-LRG,,Wholesale,Returned,339.71,4
+TXN-64707, Erminia Beament,EBEAMENTP7@PAGINEGIALLE.IT,575.219.4576,5/25/26,PROD-SHIRT-BLACK-MED,South,Online,Cancelled,213.89,5
+TXN-47210,Nert Bateson,nbatesonp8@sakura.ne.jp,1352987176,4/18/26,PROD-SHOE-WHITE-XL,South,Wholesale,Returned,491.89,
+TXN-71875,Ilene Tansill,ITANSILLP9@HOMESTEAD.COM,283.384.4663,5/12/26,PROD-SHOE-BLACK-XL,South,Retail,Cancelled,167.92,5
+TXN-06279, Arther Worters,AWORTERSPA@TOPSY.COM,(315) 136-9116,5/21/26,PROD-BAG-WHITE-MED,East,Retail,Cancelled,302.35,8
+TXN-84700,Maggie Grindell,MGRINDELLPB@NOAA.GOV,771-363-8984,3/17/26,PROD-SHIRT-RED-SM,North,Online,Shipped,353.37,4
+TXN-08072,Freida Baynam,FBAYNAMPC@DISCOVERY.COM,663.193.4135,3/12/26,PROD-HAT-WHITE-LRG,East,Retail,Shipped,639.37,4
+TXN-60498,Irwinn Hallsworth ,ihallsworthpd@facebook.com,(139) 259-6302,5/6/26,PROD-BAG-WHITE-SM,,Online,Returned,248.38,
+TXN-23528,Royce Sparway,rsparwaype@fastcompany.com,372-704-2445,3/29/26,,,Wholesale,Pending,,4
+TXN-45651,Amargo Casford ,ACASFORDPF@CNN.COM,(891) 686-2276,5/9/26,PROD-SHOE-BLUE-SM,South,Wholesale,Shipped,819.4,1
+TXN-99316, ,esandbatchpg@wix.com,(646) 967-6120,3/5/26,,,Online,Cancelled,351.85,4
+TXN-42077,Lira Davern,LDAVERNPH@NETLOG.COM,370.399.7667,5/6/26,PROD-HAT-RED-MED,West,,Pending,333.55,3
+TXN-45423,Vinita Dallander,vdallanderpi@icq.com,935-936-2187,5/27/26,PROD-HAT-WHITE-XL,South,Online,Shipped,622.16,7
+TXN-96655,Paulo Bezarra,pbezarrapj@discuz.net,4437911685,3/25/26,PROD-SHOE-RED-SM,North,Retail,Cancelled,207.83,3
+TXN-73066,Renata Wimpress,RWIMPRESSPK@VISTAPRINT.COM,(559) 229-0568,5/20/26,PROD-HAT-BLACK-XL,South,Online,Shipped,826.51,
+TXN-80939,Jacobo Bromilow,JBROMILOWPL@SLATE.COM,(678) 715-5481,4/9/26,,West,Retail,,59.63,
+TXN-07254,Ambros Nesbit,ANESBITPM@USATODAY.COM,(332) 599-9322,5/9/26,PROD-SHOE-BLUE-MED,East,Retail,Shipped,480.65,5
+TXN-20000,Magnum Creese,mcreesepn@hatena.ne.jp,(202) 385-3931,4/2/26,PROD-HAT-RED-MED,East,Wholesale,,598.32,2
+TXN-88272,Cleve Fance,CFANCEPO@OX.AC.UK,8684200285,3/21/26,PROD-HAT-BLUE-XL,West,Retail,Cancelled,594.44,
+TXN-94359, Guillema Paulley,GPAULLEYPP@STORIFY.COM,106.916.0415,4/21/26,PROD-HAT-BLUE-SM,South,,Shipped,131.86,5
+TXN-44027,mora hunt,MHUNTPQ@WEBMD.COM,(541) 992-7521,4/4/26,PROD-SHOE-BLACK-SM,,Retail,Shipped,234.68,3
+TXN-07363,warde knappett,WKNAPPETTPR@WEIBO.COM,(137) 306-5262,5/16/26,PROD-SHOE-WHITE-MED,East,,Pending,,5
+TXN-18022,Shannah Gascoyne,SGASCOYNEPS@NAROD.RU,924.355.3055,5/3/26,,,Online,Pending,797.69,5
+TXN-30693,Jaquelin Stalley,jstalleypt@issuu.com,1648861338,3/14/26,PROD-SHOE-WHITE-LRG,East,Retail,Returned,495.39,6
+TXN-22531,Whit Stormes,wstormespu@posterous.com,(554) 686-6280,5/1/26,PROD-BAG-WHITE-SM,North,Wholesale,Pending,404.35,3
+TXN-09431,Carine Peddel,cpeddelpv@devhub.com,8807269480,4/24/26,PROD-SHOE-WHITE-SM,,Retail,Pending,485.95,5
+TXN-61986,trenton mcilwrath,TMCILWRATHPW@ORACLE.COM,597.657.0807,,PROD-BAG-BLUE-SM,East,Wholesale,Pending,42.5,2
+TXN-39155,Maureene Cisson,MCISSONPX@SPRINGER.COM,470-614-9237,3/19/26,PROD-SHIRT-BLACK-XL,North,Online,Cancelled,214.48,5
+TXN-56954,Madge Weblin,mweblinpy@qq.com,(172) 502-7126,3/15/26,PROD-HAT-WHITE-MED,East,Online,Cancelled,,8
+,Sammie Foister,sfoisterpz@noaa.gov,7564667884,3/7/26,PROD-BAG-BLACK-MED,East,Retail,Pending,,4
+TXN-88160,stillmann algore,SALGOREQ0@BUSINESSWEEK.COM,5293481721,4/30/26,PROD-SHOE-WHITE-MED,West,Online,Returned,52.06,7
+TXN-54313,Gussi Yitzovicz,gyitzoviczq1@reddit.com,(261) 266-7236,3/12/26,,North,Retail,Returned,,8
+TXN-85256,Jeannie Ragsdale,jragsdaleq2@google.com.hk,(842) 779-1210,5/17/26,PROD-BAG-WHITE-XL,,Retail,Shipped,835.68,7
+TXN-44434,debora torregiani,dtorregianiq3@woothemes.com,3558304008,3/11/26,PROD-SHIRT-BLACK-LRG,South,Retail,Cancelled,99.37,8
+TXN-34511,Nikolaos Blowen,nblowenq4@pen.io,(931) 782-6162,5/1/26,PROD-SHIRT-BLUE-SM,North,Online,Shipped,54.32,2
+,Cyndi Timmons,CTIMMONSQ5@ADDTOANY.COM,,4/6/26,PROD-HAT-RED-LRG,East,Wholesale,Returned,813.21,7
+TXN-71145,Roch Costa,rcostaq6@telegraph.co.uk,971-205-9019,3/2/26,PROD-HAT-WHITE-MED,West,Wholesale,,149.77,7
+TXN-88902,Shelia Clelle ,SCLELLEQ7@DISCUZ.NET,335-581-6323,3/18/26,PROD-SHOE-BLACK-MED,West,Retail,Returned,818.56,6
+TXN-36797,Michel Dunge,mdungeq8@liveinternet.ru,1993721378,4/7/26,PROD-SHOE-RED-LRG,South,Retail,Cancelled,477.1,7
+TXN-12484,Forest Egdal,fegdalq9@scientificamerican.com,904.735.1550,5/8/26,PROD-SHIRT-BLUE-XL,West,Wholesale,Cancelled,621.87,
+TXN-70885,Gaspard Burke ,GBURKEQA@MERRIAM-WEBSTER.COM,3011540630,4/17/26,PROD-HAT-WHITE-SM,East,,Returned,,8
+TXN-18704,,kpirtqb@nsw.gov.au,4496898463,5/1/26,PROD-SHOE-BLUE-LRG,,Retail,,228.74,
+TXN-38509, Rosabella Garey,rgareyqc@berkeley.edu,(236) 243-8393,5/12/26,PROD-BAG-BLACK-XL,West,Retail,Returned,553.69,3
+,Sharlene Hansford,shansfordqd@uiuc.edu,508.106.0145,5/17/26,PROD-SHIRT-WHITE-SM,North,Wholesale,Returned,152.51,7
+TXN-79040,geneva haughin,GHAUGHINQE@LOC.GOV,109.376.6253,3/25/26,PROD-BAG-RED-MED,North,Retail,Shipped,75.87,4
+,Winslow Lambell,WLAMBELLQF@CLOUDFLARE.COM,(269) 453-2164,5/5/26,PROD-SHIRT-WHITE-XL,East,,Returned,703,
+TXN-95287,Arleta Reaveley,areaveleyqg@arstechnica.com,569.612.8381,,PROD-SHOE-RED-MED,North,Online,Shipped,333.24,3
+TXN-79305,Karalynn Gilhooly,kgilhoolyqh@nationalgeographic.com,624-269-2372,4/2/26,,East,Online,Shipped,41.44,6
+TXN-69824,Caz McKane,CMCKANEQI@CHRON.COM,(792) 235-0183,03/20/2026,PROD-BAG-RED-SM,West,Retail,Returned,96.47,8
+TXN-62797,mandel giral ,,965-853-7381,4/24/26,PROD-BAG-WHITE-XL,East,Retail,Pending,121.2,8
+TXN-20075,,HWINDAYBANKQK@EBAY.COM,381.729.5687,3/26/26,PROD-BAG-RED-MED,North,Wholesale,Pending,,2
+TXN-37932,giralda unwins ,GUNWINSQL@STATE.TX.US,937.573.8345,5/11/26,PROD-SHOE-BLACK-MED,North,Retail,Shipped,545.57,6
+TXN-29129,Eugenius Allin,eallinqm@themeforest.net,255-563-6384,4/17/26,PROD-SHOE-WHITE-MED,West,Wholesale,Cancelled,288.24,
+TXN-93670,Batholomew Abby,BABBYQN@ADDTHIS.COM,7324432228,3/22/26,PROD-SHOE-BLUE-LRG,West,Retail,Returned,,4
+TXN-81860,Lodovico De Bruijne,ldeqo@bluehost.com,862.248.1276,5/21/26,PROD-SHIRT-RED-SM,East,Online,Returned,,6
+,Morgan Gounel,mgounelqp@ebay.com,123-429-5541,5/12/26,PROD-BAG-RED-LRG,,Wholesale,Shipped,556.73,3
+TXN-39412,Fabian Lange,FLANGEQQ@NBCNEWS.COM,291-767-6460,3/11/26,PROD-HAT-WHITE-LRG,,Online,Pending,801.35,4
+TXN-44511,Molly Jacobsson,MJACOBSSONQR@XINHUANET.COM,772-934-1281,4/13/26,PROD-SHOE-RED-MED,South,,Cancelled,279.54,6
+TXN-14649,,JMAYSTONEQS@CAFEPRESS.COM,(673) 168-4671,4/11/26,PROD-BAG-BLUE-XL,West,Wholesale,Returned,336.98,1
+TXN-07517,gan boase,gboaseqt@apache.org,328-811-1105,5/2/26,PROD-BAG-WHITE-LRG,West,Wholesale,Shipped,607.03,1
+TXN-47788, Dione Wellman,,(312) 954-1597,3/2/26,PROD-SHIRT-BLUE-SM,West,Retail,Returned,328.17,7
+TXN-45609,Clay Flitcroft,cflitcroftqv@4shared.com,2712770208,3/28/26,PROD-BAG-RED-SM,North,Online,Cancelled,63.08,1
+TXN-53814,jilli laurence,jlaurenceqw@sun.com,538.337.1685,3/3/26,PROD-SHOE-WHITE-XL,North,Wholesale,Cancelled,305.15,4
+TXN-77285,washington mcvicker ,wmcvickerqx@prnewswire.com,382-407-2246,3/29/26,PROD-SHOE-WHITE-SM,,Retail,Pending,340.59,4
+,Darius Huyche ,dhuycheqy@nsw.gov.au,918.264.0886,3/6/26,PROD-SHIRT-RED-LRG,East,Online,Shipped,652.98,8
+TXN-24314,Fredrick Willoughby,FWILLOUGHBYQZ@GOOGLE.CO.UK,,4/30/26,PROD-SHOE-RED-LRG,South,Retail,Shipped,738.29,3
+TXN-37972, Lenka Creaven,LCREAVENR0@163.COM,464-559-8738,3/11/26,PROD-HAT-WHITE-SM,,Wholesale,Cancelled,189.61,2
+TXN-94047,Abbye McCreath,amccreathr1@delicious.com,7692019505,4/9/26,PROD-BAG-WHITE-SM,South,Wholesale,Pending,247.12,4
+TXN-29226,Ardyth Meanwell,ameanwellr2@nba.com,(385) 985-5122,3/19/26,PROD-BAG-WHITE-XL,South,Retail,,123.61,8
+TXN-61025,Glyn Ragdale,gragdaler3@epa.gov,,4/3/26,PROD-HAT-BLACK-LRG,West,Wholesale,Shipped,819.11,4
+TXN-06071,Colin Mountney,cmountneyr4@4shared.com,590-517-0475,3/27/26,PROD-BAG-RED-SM,North,Retail,Pending,223.57,4
+TXN-99048,Luise Taylder,LTAYLDERR5@BING.COM,870.888.1025,5/2/26,PROD-SHIRT-RED-XL,South,Retail,Pending,249.32,4
+TXN-79173,Gladys Snowman,gsnowmanr6@nhs.uk,153.555.3109,4/23/26,PROD-SHOE-RED-SM,South,Retail,Returned,518.07,5
+TXN-57163,Cleopatra Weerdenburg,cweerdenburgr7@chronoengine.com,136.869.0478,3/17/26,PROD-SHOE-BLUE-XL,,Online,Pending,281.32,4
+TXN-07925,Linda Romney ,LROMNEYR8@NAVER.COM,1916491103,3/31/26,PROD-HAT-RED-MED,North,Online,Returned,737.69,1
+TXN-45426, Warren Toner,wtonerr9@blogs.com,134.388.9923,3/13/26,PROD-BAG-WHITE-MED,North,,Shipped,196.31,5
+TXN-11938,Noby Artist,nartistra@google.it,421-110-0421,5/4/26,PROD-SHIRT-BLACK-MED,West,Online,Returned,440.93,2
+TXN-18197,Amandie Curnokk,acurnokkrb@washingtonpost.com,789-662-6887,4/29/26,PROD-HAT-WHITE-MED,East,Retail,Shipped,,2
+TXN-52896,Karilynn Arnson,KARNSONRC@FACEBOOK.COM,(904) 507-0478,3/9/26,PROD-BAG-WHITE-SM,North,Online,Returned,189.29,7
+TXN-99128,Gaynor Clewer ,GCLEWERRD@APACHE.ORG,825-250-7718,5/20/26,PROD-HAT-WHITE-XL,East,Retail,,415.17,7
+TXN-34827,Aaron Condell,acondellre@gizmodo.com,1819245476,3/3/26,PROD-HAT-BLACK-LRG,North,,Shipped,38.84,6
+TXN-76257, Maison Tillerton,MTILLERTONRF@NIFTY.COM,(441) 186-9301,03/20/2026,PROD-SHOE-BLACK-MED,West,Wholesale,Shipped,652.74,6
+,verina leroux ,VLEROUXRG@PEN.IO,474.235.8550,3/6/26,PROD-SHIRT-BLUE-LRG,North,,Pending,187.18,6
+TXN-10371, Marika Saltern,msalternrh@tinyurl.com,,5/16/26,PROD-BAG-BLACK-SM,,Online,Cancelled,244.93,2
+TXN-41735,Minna Trobridge,,755.692.3617,5/20/26,PROD-SHOE-BLACK-MED,South,Wholesale,Returned,94.98,1
+TXN-19414, ,dseearrj@google.ca,,5/24/26,PROD-SHIRT-BLACK-LRG,West,Online,Shipped,,3
+TXN-73936,Griz Crickett,gcrickettrk@slashdot.org,929.987.7108,4/28/26,PROD-HAT-BLUE-SM,North,Retail,Pending,,5
+TXN-61070,Cortney Lapere ,clapererl@upenn.edu,359-466-9762,5/25/26,PROD-HAT-WHITE-XL,West,Online,,,8
+TXN-11018,nannette josefsson,NJOSEFSSONRM@MACROMEDIA.COM,8795597797,,PROD-SHIRT-BLUE-SM,South,Wholesale,Pending,351.54,1
+TXN-88597,Robbie Officer,,(742) 751-4256,4/8/26,PROD-SHOE-RED-SM,North,Retail,Shipped,572.2,6
+TXN-85860,Charlotta Upham,cuphamro@barnesandnoble.com,602.863.1705,3/9/26,PROD-SHOE-WHITE-MED,North,Online,Returned,727.55,7
+TXN-45479,Randie Adamowicz,RADAMOWICZRP@ABOUTADS.INFO,9913153241,4/14/26,PROD-BAG-BLUE-LRG,,Online,Returned,36.53,3
+TXN-64348,florentia peller,FPELLERRQ@NATURE.COM,(419) 368-4690,3/10/26,PROD-SHOE-BLACK-XL,,Wholesale,,446.58,2
+TXN-90153, Thebault Deverock,TDEVEROCKRR@CMU.EDU,4281497683,,PROD-SHOE-RED-LRG,South,Online,Shipped,,6
+TXN-47403,,SKAINESJL@CHINA.COM.CN,,3/7/26,PROD-BAG-BLUE-SM,,Retail,Shipped,583.37,7
+TXN-65981,Kitti Lambis,klambiset@globo.com,(479) 233-5554,,PROD-SHIRT-BLUE-XL,East,Retail,Shipped,,3
+TXN-08020,Suellen Maffy,SMAFFYG3@PRNEWSWIRE.COM,(924) 602-1740,3/2/26,PROD-BAG-WHITE-MED,North,Online,Returned,601.75,2
+TXN-77920, ,MMAHADDY81@JAVA.COM,(387) 311-8844,5/27/26,PROD-HAT-BLACK-MED,South,Online,Returned,,6
+TXN-67675,Daron Pabel,dpabel8d@rediff.com,7509762118,4/30/26,PROD-SHIRT-WHITE-MED,West,Wholesale,,,
+TXN-42398,Rosalynd Crapper ,RCRAPPERLI@CLICKBANK.NET,318-358-5670,4/17/26,,North,Retail,Shipped,769.77,6
+TXN-41153, Zedekiah Gummie,ZGUMMIEE@SKYPE.COM,(547) 677-7378,4/14/26,PROD-SHIRT-WHITE-XL,West,Online,Shipped,716.58,2
+TXN-44545,caye rickeard,CRICKEARDL4@IBM.COM,428-962-1361,,PROD-HAT-BLUE-XL,East,Wholesale,Returned,73.16,7
+TXN-41060,Lindie Duferie,lduferiemm@1und1.de,240-746-6882,5/20/26,PROD-SHIRT-WHITE-XL,South,Retail,Shipped,121.88,6
+TXN-82209,Tandi Duffie,tduffiejp@mac.com,985.249.6600,4/5/26,PROD-SHIRT-BLUE-LRG,,Online,Cancelled,49.17,5
+TXN-92937,Kipp Spandley,kspandley19@nydailynews.com,1373032244,5/23/26,PROD-SHIRT-BLUE-LRG,North,Wholesale,Cancelled,487.95,
+TXN-59486,Issi Tarling ,itarlingbi@businessweek.com,(794) 150-0048,3/20/26,PROD-BAG-BLUE-LRG,West,Wholesale,Returned,354.51,
+TXN-92951,Elliot Bax,EBAXNY@AOL.COM,638-499-2696,5/16/26,PROD-SHIRT-BLUE-MED,South,Online,Cancelled,601.25,6
+TXN-65853,Goober Tudor,gtudorly@vkontakte.ru,954-750-1109,5/5/26,PROD-BAG-BLACK-MED,South,Online,Shipped,,5
+TXN-41069,Rosaline Jurs,rjursad@ed.gov,(619) 994-8876,5/21/26,PROD-BAG-RED-SM,,Retail,Shipped,,
