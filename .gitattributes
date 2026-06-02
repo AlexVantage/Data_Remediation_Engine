@@ -1,1 +1,2 @@
 *.m linguist-detectable=false
+*.xlsx filter=lfs diff=lfs merge=lfs -text
