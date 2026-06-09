@@ -1,9 +1,9 @@
 // Shopify Data Cleanup — Power Query M pipeline
-// Companion to shopify_data_raw.csv and README.md
+// Companion to shopify_data_raw.xlsx and README.md
 //
 // Setup (once):
 //   1. Data → Get Data → Blank Query → rename to "SourceFilePath"
-//   2. Advanced Editor → paste the SourceFilePath query below → point path at your CSV
+//   2. Advanced Editor → paste the SourceFilePath query below → point path at your workbook
 //   3. New Blank Query → rename to "ShopifyDataCleanup" → paste the main query below
 //
 // Refresh: Data → Refresh All (or Ctrl+Alt+F5)
@@ -11,7 +11,7 @@
 // ── Query 1: SourceFilePath (Parameter) ─────────────────────────────────────
 
 let
-    Source = "C:\Data\shopify\shopify_data_raw.csv" meta [IsParameterQuery = true, Type = "Text", IsParameterQueryRequired = true]
+    Source = "C:\Data\shopify\shopify_data_raw.xlsx" meta [IsParameterQuery = true, Type = "Text", IsParameterQueryRequired = true]
 in
     Source
 
@@ -21,11 +21,9 @@ in
 let
     // ── Pillar A: Data Ingestion & Connection ───────────────────────────────
     // Explicit external file reference via parameter — swap the path once, reuse everywhere.
-    Source = Csv.Document(
-        File.Contents(SourceFilePath),
-        [Delimiter = ",", Columns = 11, Encoding = 65001, QuoteStyle = QuoteStyle.Csv]
-    ),
-    PromotedHeaders = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+    Source = Excel.Workbook(File.Contents(SourceFilePath), null, true),
+    RawData = Source{[Item="Spreadsheet Repair", Kind="Sheet"]}[Data],
+    PromotedHeaders = Table.PromoteHeaders(RawData, [PromoteAllScalars = true]),
 
     // ── Pillar B: Text & Structural Normalization ───────────────────────────
     // Customer_Name: Trim → Clean (non-printable chars) → Capitalize Each Word

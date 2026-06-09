@@ -8,7 +8,7 @@ Portfolio sample for [AlexVantage](https://alexvantage.com) — a deliberately m
 
 | File | Purpose |
 |------|---------|
-| `shopify_data_raw.csv` | Raw export with intentional quality issues |
+| `shopify_data_raw.xlsx` | Raw export with intentional quality issues |
 | `defect_macro.vba` | VBA macro that generates the defects (setup, not solution) |
 | `ShopifyDataCleanup.m` | Full M-language pipeline (copy into Advanced Editor) |
 | `README.md` | Step-by-step walkthrough (this document) |
@@ -21,7 +21,7 @@ The sample export contains ~1,000 rows of retail transactions with defects intro
 
 | Pillar | Column(s) | Issues baked in |
 |--------|-----------|-----------------|
-| **A — Ingestion** | (file-level) | External CSV meant to be connected, not pasted into a sheet |
+| **A — Ingestion** | (file-level) | External workbook meant to be connected, not pasted into a sheet |
 | **B — Text & structure** | `Customer_Name`, `Customer_Email`, `Phone_Number`, `SKU` | Leading/trailing whitespace, inconsistent casing, mixed-case emails, four inconsistent phone formats, compound SKU field |
 | **C — Types & nulls** | `Order_Date`, `Revenue_USD`, `Quantity`, `Region` | Some dates stored as text, blank cells in numeric and region fields |
 | **D — Dedupe & schema** | `Transaction_ID` | Duplicate transaction rows, raw SKU column dropped after split |
@@ -30,7 +30,7 @@ The sample export contains ~1,000 rows of retail transactions with defects intro
 
 ## Before you start
 
-1. Copy `shopify_data_raw.csv` to a stable folder, e.g. `C:\Data\shopify\`.
+1. Copy `shopify_data_raw.xlsx` to a stable folder, e.g. `C:\Data\shopify\`.
 2. Open Excel → **Blank workbook**.
 3. The dataset uses **US-format dates (MM/DD/YYYY)**, so a default US Excel install parses them correctly — no locale override required.
 
@@ -38,19 +38,19 @@ The sample export contains ~1,000 rows of retail transactions with defects intro
 
 ## Pillar A — Data Ingestion & Connection
 
-**Goal:** Connect to the external CSV by reference, not a one-time import. A parameter makes the path reusable across refreshes and environments.
+**Goal:** Connect to the external workbook by reference, not a one-time import. A parameter makes the path reusable across refreshes and environments.
 
 ### Steps (Excel UI)
 
 1. **Data → Get Data → From Other Sources → Blank Query.**
 2. **Home → Advanced Editor.** Replace contents with the `SourceFilePath` query from `ShopifyDataCleanup.m` (top block).
-3. Update the path string to your copy of `shopify_data_raw.csv`.
+3. Update the path string to your copy of `shopify_data_raw.xlsx`.
 4. Marking `IsParameterQuery = true` in the `meta` record (as in the `.m` file) exposes it under **Queries & Connections → Parameters**.
 5. Rename the query **`SourceFilePath`**.
 
 ### Why this matters
 
-Pasting CSV data into a worksheet creates a static snapshot. A parameterized `File.Contents` connection lets the team drop a new weekly export in the same folder, refresh, and get the full clean pipeline — no rework.
+Pasting export data into a worksheet creates a static snapshot. A parameterized `File.Contents` connection lets the team drop a new weekly export in the same folder, refresh, and get the full clean pipeline — no rework.
 
 ---
 
@@ -61,7 +61,7 @@ Pasting CSV data into a worksheet creates a static snapshot. A parameterized `Fi
 ### Steps (Excel UI)
 
 1. **Data → Get Data → From Other Sources → Blank Query** → rename **`ShopifyDataCleanup`**.
-2. In Advanced Editor, start from the `Source` and `PromotedHeaders` steps in `ShopifyDataCleanup.m`, referencing `SourceFilePath`.
+2. In Advanced Editor, start from the `Source`, `RawData`, and `PromotedHeaders` steps in `ShopifyDataCleanup.m`, referencing `SourceFilePath`.
 3. Select **`Customer_Name`** → **Transform → Format → Trim**, then **Clean**, then **Capitalize Each Word**.
    - M equivalents: `Text.Trim` → `Text.Clean` → `Text.Proper`
 4. Select **`Customer_Email`** → **Transform → Format → lowercase**.
@@ -125,7 +125,7 @@ The 15 duplicate rows introduced by the macro collapse back to the unique transa
 ## Load & refresh
 
 1. **Home → Close & Load To… → Table** (or **Only Create Connection** if feeding a data model).
-2. Each week: replace the CSV in the source folder → **Data → Refresh All**.
+2. Each week: replace the workbook in the source folder → **Data → Refresh All**.
 
 ---
 
