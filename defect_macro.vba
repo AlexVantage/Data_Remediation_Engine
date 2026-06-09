@@ -103,5 +103,5 @@ Sub IntroduceDefects()
         If Rnd < 0.05 Then ws.Cells(i, 11).Value = ""
     Next i
     
-    MsgBox "Defects introduced. Row count: " & lastRow & ". Save as shopify_dump_dirty.xlsx."
+    MsgBox "Defects introduced. Row count: " & lastRow & ". Save as shopify_data_raw.xlsx."
 End Sub

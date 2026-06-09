@@ -8,7 +8,7 @@ Portfolio sample for [AlexVantage](https://alexvantage.com) — a deliberately m
 
 | File | Purpose |
 |------|---------|
-| `shopify_dump_dirty.csv` | Raw export with intentional quality issues |
+| `shopify_data_raw.csv` | Raw export with intentional quality issues |
 | `defect_macro.vba` | VBA macro that generates the defects (setup, not solution) |
 | `ShopifyDataCleanup.m` | Full M-language pipeline (copy into Advanced Editor) |
 | `README.md` | Step-by-step walkthrough (this document) |
@@ -17,7 +17,7 @@ Portfolio sample for [AlexVantage](https://alexvantage.com) — a deliberately m
 
 ## Dirty data inventory
 
-The sample export contains ~750 rows of retail transactions with defects introduced via `defect_macro.vba`. Each pillar maps to specific issues:
+The sample export contains ~1,000 rows of retail transactions with defects introduced via `defect_macro.vba`. Each pillar maps to specific issues:
 
 | Pillar | Column(s) | Issues baked in |
 |--------|-----------|-----------------|
@@ -30,7 +30,7 @@ The sample export contains ~750 rows of retail transactions with defects introdu
 
 ## Before you start
 
-1. Copy `shopify_dump_dirty.csv` to a stable folder, e.g. `C:\Data\shopify\`.
+1. Copy `shopify_data_raw.csv` to a stable folder, e.g. `C:\Data\shopify\`.
 2. Open Excel → **Blank workbook**.
 3. The dataset uses **US-format dates (MM/DD/YYYY)**, so a default US Excel install parses them correctly — no locale override required.
 
@@ -44,7 +44,7 @@ The sample export contains ~750 rows of retail transactions with defects introdu
 
 1. **Data → Get Data → From Other Sources → Blank Query.**
 2. **Home → Advanced Editor.** Replace contents with the `SourceFilePath` query from `ShopifyDataCleanup.m` (top block).
-3. Update the path string to your copy of `shopify_dump_dirty.csv`.
+3. Update the path string to your copy of `shopify_data_raw.csv`.
 4. Marking `IsParameterQuery = true` in the `meta` record (as in the `.m` file) exposes it under **Queries & Connections → Parameters**.
 5. Rename the query **`SourceFilePath`**.
 

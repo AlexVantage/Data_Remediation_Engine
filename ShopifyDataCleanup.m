@@ -1,5 +1,5 @@
 // Shopify Data Cleanup — Power Query M pipeline
-// Companion to shopify_dump_dirty.csv and README.md
+// Companion to shopify_data_raw.csv and README.md
 //
 // Setup (once):
 //   1. Data → Get Data → Blank Query → rename to "SourceFilePath"
@@ -11,7 +11,7 @@
 // ── Query 1: SourceFilePath (Parameter) ─────────────────────────────────────
 
 let
-    Source = "C:\Data\shopify\shopify_dump_dirty.csv" meta [IsParameterQuery = true, Type = "Text", IsParameterQueryRequired = true]
+    Source = "C:\Data\shopify\shopify_data_raw.csv" meta [IsParameterQuery = true, Type = "Text", IsParameterQueryRequired = true]
 in
     Source
 
