@@ -26,10 +26,13 @@ Built a completely isolated staging environment in Excel. Instead of dragging fo
 - Regex matching (via Excel string manipulation equivalents)
 
 ## Screenshots
-![Validation Engine](screenshots/staging_errors.png)
-*(Staging layer intercepting bad records and throwing explicit error codes)*
+![Staging layer](screenshots/staging_errors.png)
+*(Staging tab — bad rows tagged with explicit ERROR codes before they reach reports)*
 
-![QA Test Matrix](screenshots/qa_matrix.png)
+![Clean output](screenshots/clean_output.png)
+*(Clean tab — same export validated and standardized, ready for pivots and reporting)*
+
+![QA test matrix](screenshots/qa_matrix.png)
 *(Self-testing harness scoring adversarial inputs against the engine's logic)*
 
 ## Impact
